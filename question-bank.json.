@@ -1,0 +1,1202 @@
+[
+  {
+    "subject": "Odia Language",
+    "q": "‘ଅମୃତ’ ଶବ୍ଦର ବିପରୀତାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+    "opts": [
+      "ବିଷ",
+      "ସୁଧା",
+      "ଅମିୟ",
+      "ମଧୁ"
+    ],
+    "a": 0,
+    "exp": "‘ଅମୃତ’ର ବିପରୀତାର୍ଥକ ଶବ୍ଦ ‘ବିଷ’।"
+  },
+  {
+    "subject": "Odia Language",
+    "q": "‘ଆକାଶ’ର ସମାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+    "opts": [
+      "ପବନ",
+      "ଗଗନ",
+      "ଧରା",
+      "ସାଗର"
+    ],
+    "a": 1,
+    "exp": "‘ଗଗନ’ ଆକାଶର ସମାର୍ଥକ।"
+  },
+  {
+    "subject": "Odia Language",
+    "q": "‘ଯେ ଦେଶକୁ ଭଲପାଏ’—ଏକ ଶବ୍ଦରେ କ’ଣ?",
+    "opts": [
+      "ସମାଜସେବୀ",
+      "ଦେଶଦ୍ରୋହୀ",
+      "ଦେଶପ୍ରେମୀ",
+      "ପର୍ଯ୍ୟଟକ"
+    ],
+    "a": 2,
+    "exp": "ଦେଶକୁ ଭଲପାଉଥିବା ବ୍ୟକ୍ତି ଦେଶପ୍ରେମୀ।"
+  },
+  {
+    "subject": "Odia Language",
+    "q": "‘ନୀଳକଣ୍ଠ’ କେଉଁ ସମାସର ଉଦାହରଣ?",
+    "opts": [
+      "ଦ୍ୱନ୍ଦ୍ୱ",
+      "ବହୁବ୍ରୀହି",
+      "ଅବ୍ୟୟୀଭାବ",
+      "ଦ୍ୱିଗୁ"
+    ],
+    "a": 1,
+    "exp": "‘ନୀଳ କଣ୍ଠ ଯାହାର’—ଏହା ବହୁବ୍ରୀହି ସମାସ।"
+  },
+  {
+    "subject": "Odia Language",
+    "q": "‘ସେ ବିଦ୍ୟାଳୟକୁ ଯାଏ’ ବାକ୍ୟରେ କ୍ରିୟାପଦ କେଉଁଟି?",
+    "opts": [
+      "ସେ",
+      "ବିଦ୍ୟାଳୟକୁ",
+      "ଯାଏ",
+      "କୌଣସିଟି ନୁହେଁ"
+    ],
+    "a": 2,
+    "exp": "‘ଯାଏ’ କାର୍ଯ୍ୟକୁ ସୂଚାଏ, ତେଣୁ ଏହା କ୍ରିୟାପଦ।"
+  },
+  {
+    "subject": "Odia Language",
+    "q": "‘ହାତୀ’ର ବହୁବଚନ କେଉଁଟି?",
+    "opts": [
+      "ହାତୀମାନେ",
+      "ହାତୀତା",
+      "ହାତୀର",
+      "ହାତୀକୁ"
+    ],
+    "a": 0,
+    "exp": "ବହୁବଚନରେ ‘ହାତୀମାନେ’ ବ୍ୟବହୃତ ହୁଏ।"
+  },
+  {
+    "subject": "Odia Language",
+    "q": "‘ଉଦୟ’ର ବିପରୀତାର୍ଥକ ଶବ୍ଦ କ’ଣ?",
+    "opts": [
+      "ଆରମ୍ଭ",
+      "ଅସ୍ତ",
+      "ବିକାଶ",
+      "ଉନ୍ନତି"
+    ],
+    "a": 1,
+    "exp": "‘ଉଦୟ’ର ବିପରୀତ ‘ଅସ୍ତ’।"
+  },
+  {
+    "subject": "Odia Language",
+    "q": "‘ମାତୃଭୂମି’ ଶବ୍ଦର ଅର୍ଥ କ’ଣ?",
+    "opts": [
+      "ଜନ୍ମଭୂମି",
+      "ବିଦେଶ",
+      "ବିଦ୍ୟାଳୟ",
+      "କାର୍ଯ୍ୟସ୍ଥଳ"
+    ],
+    "a": 0,
+    "exp": "ମାତୃଭୂମି ଅର୍ଥ ନିଜ ଦେଶ ବା ଜନ୍ମଭୂମି।"
+  },
+  {
+    "subject": "Odia Language",
+    "q": "‘ସତ୍ୟ’ ଶବ୍ଦର ବିପରୀତ କ’ଣ?",
+    "opts": [
+      "ଧର୍ମ",
+      "ନ୍ୟାୟ",
+      "ମିଥ୍ୟା",
+      "ଶାନ୍ତି"
+    ],
+    "a": 2,
+    "exp": "‘ସତ୍ୟ’ର ବିପରୀତ ‘ମିଥ୍ୟା’।"
+  },
+  {
+    "subject": "Odia Language",
+    "q": "‘କର୍ମ’ ଶବ୍ଦରୁ ଗଠିତ ‘କର୍ମଠ’ର ଅର୍ଥ କ’ଣ?",
+    "opts": [
+      "ଆଳସୀ",
+      "ପରିଶ୍ରମୀ",
+      "କ୍ରୋଧୀ",
+      "ଭୀରୁ"
+    ],
+    "a": 1,
+    "exp": "କର୍ମଠ ଅର୍ଥ ପରିଶ୍ରମୀ ବା କାମ କରିବାରେ ତତ୍ପର।"
+  },
+  {
+    "subject": "English Language",
+    "q": "Choose the synonym of “Brave”.",
+    "opts": [
+      "Cowardly",
+      "Courageous",
+      "Weak",
+      "Careless"
+    ],
+    "a": 1,
+    "exp": "“Courageous” means brave."
+  },
+  {
+    "subject": "English Language",
+    "q": "Choose the antonym of “Ancient”.",
+    "opts": [
+      "Old",
+      "Historic",
+      "Modern",
+      "Antique"
+    ],
+    "a": 2,
+    "exp": "“Modern” is the opposite of “Ancient”."
+  },
+  {
+    "subject": "English Language",
+    "q": "Fill in the blank: She ___ to school every day.",
+    "opts": [
+      "go",
+      "going",
+      "goes",
+      "gone"
+    ],
+    "a": 2,
+    "exp": "With third-person singular subject “She”, use “goes” in the simple present."
+  },
+  {
+    "subject": "English Language",
+    "q": "Choose the correctly spelt word.",
+    "opts": [
+      "Accomodation",
+      "Accommodation",
+      "Acommodation",
+      "Accommadation"
+    ],
+    "a": 1,
+    "exp": "The correct spelling is “Accommodation”."
+  },
+  {
+    "subject": "English Language",
+    "q": "Identify the noun in: “Honesty is the best policy.”",
+    "opts": [
+      "best",
+      "is",
+      "Honesty",
+      "the"
+    ],
+    "a": 2,
+    "exp": "“Honesty” is an abstract noun."
+  },
+  {
+    "subject": "English Language",
+    "q": "Choose the correct article: He is ___ honest man.",
+    "opts": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "a": 1,
+    "exp": "Use “an” before a vowel sound; honest begins with a silent h."
+  },
+  {
+    "subject": "English Language",
+    "q": "Change into passive voice: “The police arrested the thief.”",
+    "opts": [
+      "The thief arrested the police.",
+      "The thief was arrested by the police.",
+      "The thief is arrested by police.",
+      "The police was arrested."
+    ],
+    "a": 1,
+    "exp": "Simple past active changes to “was/were + past participle”."
+  },
+  {
+    "subject": "English Language",
+    "q": "Choose the plural form of “Child”.",
+    "opts": [
+      "Childs",
+      "Childes",
+      "Children",
+      "Childrens"
+    ],
+    "a": 2,
+    "exp": "The irregular plural of “child” is “children”."
+  },
+  {
+    "subject": "English Language",
+    "q": "Select the correct preposition: The book is ___ the table.",
+    "opts": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "a": 1,
+    "exp": "“On the table” indicates contact with the surface."
+  },
+  {
+    "subject": "English Language",
+    "q": "Choose the correctly punctuated sentence.",
+    "opts": [
+      "where are you going.",
+      "Where are you going?",
+      "Where are you going,",
+      "where are you going!"
+    ],
+    "a": 1,
+    "exp": "A direct question begins with a capital letter and ends with a question mark."
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ଭାରତର ସମ୍ବିଧାନ କେବେ କାର୍ଯ୍ୟକାରୀ ହୋଇଥିଲା?",
+    "opts": [
+      "୧୫ ଅଗଷ୍ଟ ୧୯୪୭",
+      "୨୬ ଜାନୁଆରୀ ୧୯୫୦",
+      "୨୬ ନଭେମ୍ବର ୧୯୪୯",
+      "୨ ଅକ୍ଟୋବର ୧୯୫୦"
+    ],
+    "a": 1,
+    "exp": "ଭାରତୀୟ ସମ୍ବିଧାନ ୨୬ ଜାନୁଆରୀ ୧୯୫୦ରୁ କାର୍ଯ୍ୟକାରୀ ହୋଇଥିଲା।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ଓଡ଼ିଶାର ରାଜଧାନୀ କେଉଁଟି?",
+    "opts": [
+      "କଟକ",
+      "ପୁରୀ",
+      "ଭୁବନେଶ୍ୱର",
+      "ସମ୍ବଲପୁର"
+    ],
+    "a": 2,
+    "exp": "ଭୁବନେଶ୍ୱର ଓଡ଼ିଶାର ରାଜଧାନୀ।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ଭାରତର ଜାତୀୟ ପଶୁ କେଉଁଟି?",
+    "opts": [
+      "ସିଂହ",
+      "ବାଘ",
+      "ହାତୀ",
+      "ଚିତା"
+    ],
+    "a": 1,
+    "exp": "ବଙ୍ଗୀୟ ବାଘ ଭାରତର ଜାତୀୟ ପଶୁ।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ଭାରତର ପ୍ରଥମ ରାଷ୍ଟ୍ରପତି କିଏ ଥିଲେ?",
+    "opts": [
+      "ଡ଼. ରାଜେନ୍ଦ୍ର ପ୍ରସାଦ",
+      "ଡ଼. ସର୍ବପଲ୍ଲୀ ରାଧାକୃଷ୍ଣନ",
+      "ଜବାହରଲାଲ ନେହେରୁ",
+      "ଜାକିର ହୁସେନ"
+    ],
+    "a": 0,
+    "exp": "ଡ଼. ରାଜେନ୍ଦ୍ର ପ୍ରସାଦ ଭାରତର ପ୍ରଥମ ରାଷ୍ଟ୍ରପତି।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ କେଉଁ ବର୍ଷ ଆରମ୍ଭ ହୋଇଥିଲା?",
+    "opts": [
+      "୧୯୩୦",
+      "୧୯୪୨",
+      "୧୯୪୭",
+      "୧୯୨୦"
+    ],
+    "a": 1,
+    "exp": "ଭାରତ ଛାଡ଼ ଆନ୍ଦୋଳନ ୧୯୪୨ ମସିହାରେ ଆରମ୍ଭ ହୋଇଥିଲା।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ଓଡ଼ିଶାର ପ୍ରମୁଖ ଶାସ୍ତ୍ରୀୟ ନୃତ୍ୟ କେଉଁଟି?",
+    "opts": [
+      "ଭରତନାଟ୍ୟମ",
+      "କଥକ",
+      "ଓଡ଼ିଶୀ",
+      "କୁଚିପୁଡ଼ି"
+    ],
+    "a": 2,
+    "exp": "ଓଡ଼ିଶୀ ଓଡ଼ିଶାର ଶାସ୍ତ୍ରୀୟ ନୃତ୍ୟ।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ଲୋକସଭାର ସାଧାରଣ କାର୍ଯ୍ୟକାଳ କେତେ ବର୍ଷ?",
+    "opts": [
+      "୩",
+      "୪",
+      "୫",
+      "୬"
+    ],
+    "a": 2,
+    "exp": "ଲୋକସଭାର ସାଧାରଣ କାର୍ଯ୍ୟକାଳ ୫ ବର୍ଷ।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ଭାରତର ସର୍ବୋଚ୍ଚ ନ୍ୟାୟାଳୟ କେଉଁଠାରେ ଅବସ୍ଥିତ?",
+    "opts": [
+      "ମୁମ୍ବାଇ",
+      "ନୂଆଦିଲ୍ଲୀ",
+      "କୋଲକାତା",
+      "ଚେନ୍ନାଇ"
+    ],
+    "a": 1,
+    "exp": "ଭାରତର ସର୍ବୋଚ୍ଚ ନ୍ୟାୟାଳୟ ନୂଆଦିଲ୍ଲୀରେ ଅବସ୍ଥିତ।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ଚିଲିକା ହ୍ରଦ କେଉଁ ରାଜ୍ୟରେ ଅଛି?",
+    "opts": [
+      "ପଶ୍ଚିମବଙ୍ଗ",
+      "ଆନ୍ଧ୍ରପ୍ରଦେଶ",
+      "ଓଡ଼ିଶା",
+      "ତାମିଲନାଡୁ"
+    ],
+    "a": 2,
+    "exp": "ଚିଲିକା ଓଡ଼ିଶାର ଏକ ଲବଣାମ୍ବୁ ହ୍ରଦ।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ଭାରତର ମୁଦ୍ରା କେଉଁଟି?",
+    "opts": [
+      "ଟଙ୍କା",
+      "ରୁପି",
+      "ଡଲାର",
+      "ୟୁରୋ"
+    ],
+    "a": 1,
+    "exp": "ଭାରତର ମୁଦ୍ରା ହେଉଛି ଭାରତୀୟ ରୁପି (₹)।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ପଞ୍ଚାୟତି ରାଜ ବ୍ୟବସ୍ଥାକୁ ସାମ୍ବିଧାନିକ ମାନ୍ୟତା କେଉଁ ସଂଶୋଧନରେ ମିଳିଲା?",
+    "opts": [
+      "୪୨ତମ",
+      "୪୪ତମ",
+      "୭୩ତମ",
+      "୭୪ତମ"
+    ],
+    "a": 2,
+    "exp": "୭୩ତମ ସମ୍ବିଧାନ ସଂଶୋଧନ ଗ୍ରାମୀଣ ପଞ୍ଚାୟତି ରାଜକୁ ମାନ୍ୟତା ଦେଇଥିଲା।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "‘ଉତ୍କଳ ଦିବସ’ କେବେ ପାଳନ କରାଯାଏ?",
+    "opts": [
+      "୧ ଏପ୍ରିଲ",
+      "୧ ମେ",
+      "୧୫ ଅଗଷ୍ଟ",
+      "୨୬ ଜାନୁଆରୀ"
+    ],
+    "a": 0,
+    "exp": "୧ ଏପ୍ରିଲ ୧୯୩୬ରେ ଓଡ଼ିଶା ଅଲଗା ପ୍ରଦେଶ ହୋଇଥିଲା।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ଭାରତର ସବୁଠାରୁ ଲମ୍ବା ନଦୀ କେଉଁଟି?",
+    "opts": [
+      "ଗୋଦାବରୀ",
+      "ଗଙ୍ଗା",
+      "ନର୍ମଦା",
+      "କାବେରୀ"
+    ],
+    "a": 1,
+    "exp": "ଭାରତ ମଧ୍ୟରେ ପ୍ରବାହିତ ସବୁଠାରୁ ଲମ୍ବା ନଦୀ ଗଙ୍ଗା।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ରାଜ୍ୟସଭାର ଅଧ୍ୟକ୍ଷ କିଏ?",
+    "opts": [
+      "ରାଷ୍ଟ୍ରପତି",
+      "ଲୋକସଭା ବାଚସ୍ପତି",
+      "ଉପରାଷ୍ଟ୍ରପତି",
+      "ପ୍ରଧାନମନ୍ତ୍ରୀ"
+    ],
+    "a": 2,
+    "exp": "ଭାରତର ଉପରାଷ୍ଟ୍ରପତି ରାଜ୍ୟସଭାର ପଦେନ ଅଧ୍ୟକ୍ଷ।"
+  },
+  {
+    "subject": "General Knowledge",
+    "q": "ଓଡ଼ିଶାର ସର୍ବୋଚ୍ଚ ପର୍ବତ ଶିଖର ଭାବେ ପରିଚିତ ଦେଓମାଳି କେଉଁ ଜିଲ୍ଲାରେ?",
+    "opts": [
+      "କୋରାପୁଟ",
+      "କନ୍ଧମାଳ",
+      "କେନ୍ଦୁଝର",
+      "ମୟୂରଭଞ୍ଜ"
+    ],
+    "a": 0,
+    "exp": "ଦେଓମାଳି କୋରାପୁଟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "ଯଦି କୌଣସି ସଂଖ୍ୟାର ୨୫% = ୪୦, ତେବେ ସଂଖ୍ୟାଟି କେତେ?",
+    "opts": [
+      "୧୨୦",
+      "୧୪୦",
+      "୧୬୦",
+      "୧୮୦"
+    ],
+    "a": 2,
+    "exp": "ସଂଖ୍ୟା = ୪୦ × ୧୦୦ ÷ ୨୫ = ୧୬୦।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "୧୫ ଓ ୨୦ର ଲ.ସା.ଗୁ. କେତେ?",
+    "opts": [
+      "୩୦",
+      "୪୦",
+      "୬୦",
+      "୮୦"
+    ],
+    "a": 2,
+    "exp": "୧୫ ଓ ୨୦ର ଲ.ସା.ଗୁ. ୬୦।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "୧୨, ୧୮ ଓ ୨୪ର ଗ.ସା.ଗୁ. କେତେ?",
+    "opts": [
+      "୩",
+      "୬",
+      "୯",
+      "୧୨"
+    ],
+    "a": 1,
+    "exp": "୧୨, ୧୮ ଓ ୨୪ର ସର୍ବବୃହତ ସାଧାରଣ ଗୁଣନୀୟକ ୬।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "୫୦୦ ଟଙ୍କାର ୧୦% କେତେ?",
+    "opts": [
+      "୨୫",
+      "୪୦",
+      "୫୦",
+      "୬୦"
+    ],
+    "a": 2,
+    "exp": "୫୦୦ × ୧୦/୧୦୦ = ୫୦।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "ଏକ ବସ୍ତୁର କ୍ରୟମୂଲ୍ୟ ₹୮୦୦ ଓ ବିକ୍ରୟମୂଲ୍ୟ ₹୯୨୦। ଲାଭ ଶତକଡ଼ା କେତେ?",
+    "opts": [
+      "୧୦%",
+      "୧୫%",
+      "୨୦%",
+      "୨୫%"
+    ],
+    "a": 1,
+    "exp": "ଲାଭ = ୧୨୦; ଲାଭ% = ୧୨୦/୮୦୦ × ୧୦୦ = ୧୫%।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "୧୦, ୨୦, ୩୦, ୪୦ର ହାରାହାରି କେତେ?",
+    "opts": [
+      "୨୦",
+      "୨୫",
+      "୩୦",
+      "୩୫"
+    ],
+    "a": 1,
+    "exp": "ହାରାହାରି = (୧୦+୨୦+୩୦+୪୦)/୪ = ୨୫।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "୬୦ କି.ମି./ଘଣ୍ଟା ବେଗରେ ୨ ଘଣ୍ଟାରେ କେତେ ଦୂର ଯିବ?",
+    "opts": [
+      "୯୦ କି.ମି.",
+      "୧୦୦ କି.ମି.",
+      "୧୨୦ କି.ମି.",
+      "୧୫୦ କି.ମି."
+    ],
+    "a": 2,
+    "exp": "ଦୂରତା = ବେଗ × ସମୟ = ୬୦ × ୨ = ୧୨୦ କି.ମି.।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "୩/୪ର ଦଶମିକ ରୂପ କେତେ?",
+    "opts": [
+      "୦.୨୫",
+      "୦.୫",
+      "୦.୭୫",
+      "୧.୨୫"
+    ],
+    "a": 2,
+    "exp": "୩ ÷ ୪ = ୦.୭୫।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "ଏକ ଆୟତର ଲମ୍ବ ୧୨ ସେ.ମି. ଓ ପ୍ରସ୍ଥ ୮ ସେ.ମି.। କ୍ଷେତ୍ରଫଳ କେତେ?",
+    "opts": [
+      "୪୦ ବର୍ଗ ସେ.ମି.",
+      "୮୦ ବର୍ଗ ସେ.ମି.",
+      "୯୬ ବର୍ଗ ସେ.ମି.",
+      "୧୨୦ ବର୍ଗ ସେ.ମି."
+    ],
+    "a": 2,
+    "exp": "ଆୟତର କ୍ଷେତ୍ରଫଳ = ଲମ୍ବ × ପ୍ରସ୍ଥ = ୧୨ × ୮ = ୯୬।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "୧୦୦୦ ଟଙ୍କାରେ ୫% ବାର୍ଷିକ ସରଳ ସୁଧରେ ୨ ବର୍ଷର ସୁଧ କେତେ?",
+    "opts": [
+      "₹୫୦",
+      "₹୭୫",
+      "₹୧୦୦",
+      "₹୧୫୦"
+    ],
+    "a": 2,
+    "exp": "ସରଳ ସୁଧ = P×R×T/100 = ୧୦୦୦×୫×୨/୧୦୦ = ₹୧୦୦।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "୨:୩ ଅନୁପାତର ଦୁଇ ସଂଖ୍ୟାର ଯୋଗଫଳ ୨୫। ବଡ଼ ସଂଖ୍ୟା କେତେ?",
+    "opts": [
+      "୧୦",
+      "୧୫",
+      "୨୦",
+      "୨୫"
+    ],
+    "a": 1,
+    "exp": "ମୋଟ ଅଂଶ ୫; ବଡ଼ ସଂଖ୍ୟା = ୨୫×୩/୫ = ୧୫।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "୧୨୫ର ବର୍ଗମୂଳ କେତେ?",
+    "opts": [
+      "୫",
+      "୧୦",
+      "୧୧",
+      "୧୨"
+    ],
+    "a": 1,
+    "exp": "୧୦²=୧୦୦; ୧୨²=୧୪୪; ତେଣୁ ୧୨୫ ପୂର୍ଣ୍ଣ ବର୍ଗ ନୁହେଁ।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "ଏକ କାମକୁ A ୧୦ ଦିନରେ କରେ। Aର ଗୋଟିଏ ଦିନର କାମ କେତେ?",
+    "opts": [
+      "୧/୫",
+      "୧/୧୦",
+      "୧/୧୫",
+      "୧/୨୦"
+    ],
+    "a": 1,
+    "exp": "ସମ୍ପୂର୍ଣ୍ଣ କାମ ୧; ଦୈନିକ କାମ = ୧/୧୦।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "୭୨ର ୧/୮ ଅଂଶ କେତେ?",
+    "opts": [
+      "୮",
+      "୯",
+      "୧୦",
+      "୧୨"
+    ],
+    "a": 1,
+    "exp": "୭୨ ÷ ୮ = ୯।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "୧୫୦ରୁ ୧୨୦କୁ ହ୍ରାସ ହେଲେ ହ୍ରାସ ଶତକଡ଼ା କେତେ?",
+    "opts": [
+      "୧୫%",
+      "୨୦%",
+      "୨୫%",
+      "୩୦%"
+    ],
+    "a": 1,
+    "exp": "ହ୍ରାସ = ୩୦; ୩୦/୧୫୦ × ୧୦୦ = ୨୦%।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "ଶ୍ରେଣୀ ପୂରଣ କରନ୍ତୁ: ୨, ୪, ୮, ୧୬, __",
+    "opts": [
+      "୨୦",
+      "୨୪",
+      "୩୨",
+      "୩୬"
+    ],
+    "a": 2,
+    "exp": "ପ୍ରତ୍ୟେକ ସଂଖ୍ୟା ଦୁଇଗୁଣ; ପରବର୍ତ୍ତୀ ୩୨।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "ଅସଙ୍ଗତଟି ବାଛନ୍ତୁ: ଆମ୍ବ, କଦଳୀ, ଗାଜର, କମଳା।",
+    "opts": [
+      "ଆମ୍ବ",
+      "କଦଳୀ",
+      "ଗାଜର",
+      "କମଳା"
+    ],
+    "a": 2,
+    "exp": "ଗାଜର ପନିପରିବା; ଅନ୍ୟଗୁଡ଼ିକ ଫଳ।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "ଯଦି CATକୁ DBU ଲେଖାଯାଏ, ତେବେ DOGକୁ କିପରି ଲେଖାଯିବ?",
+    "opts": [
+      "EPH",
+      "CNG",
+      "FQI",
+      "EOG"
+    ],
+    "a": 0,
+    "exp": "ପ୍ରତ୍ୟେକ ଅକ୍ଷରର ପରବର୍ତ୍ତୀ ଅକ୍ଷର: D→E, O→P, G→H।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "ରବି ଉତ୍ତର ଦିଗକୁ ମୁହଁ କରି ଠିଆ ଅଛି। ଡାହାଣକୁ ବୁଲିଲେ କେଉଁ ଦିଗ?",
+    "opts": [
+      "ପଶ୍ଚିମ",
+      "ପୂର୍ବ",
+      "ଦକ୍ଷିଣ",
+      "ଉତ୍ତର"
+    ],
+    "a": 1,
+    "exp": "ଉତ୍ତର ଦିଗରୁ ଡାହାଣକୁ ବୁଲିଲେ ପୂର୍ବ ଦିଗ।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "ମା’ର ଭାଇ ଆପଣଙ୍କର କିଏ?",
+    "opts": [
+      "ପିତା",
+      "ମାମୁଁ",
+      "ଭାଇ",
+      "ଜେଜେ"
+    ],
+    "a": 1,
+    "exp": "ମା’ଙ୍କ ଭାଇଙ୍କୁ ମାମୁଁ କୁହାଯାଏ।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "ଶ୍ରେଣୀ ପୂରଣ କରନ୍ତୁ: ୩, ୬, ୯, ୧୨, __",
+    "opts": [
+      "୧୪",
+      "୧୫",
+      "୧୬",
+      "୧୮"
+    ],
+    "a": 1,
+    "exp": "ପ୍ରତ୍ୟେକ ଥର ୩ ଯୋଗ; ପରବର୍ତ୍ତୀ ୧୫।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "ଯଦି ଆଜି ସୋମବାର, ତେବେ ୧୦ ଦିନ ପରେ କେଉଁ ବାର?",
+    "opts": [
+      "ବୁଧବାର",
+      "ଗୁରୁବାର",
+      "ଶୁକ୍ରବାର",
+      "ଶନିବାର"
+    ],
+    "a": 1,
+    "exp": "୧୦ ଦିନ = ୭+୩; ସୋମବାରର ୩ ଦିନ ପରେ ଗୁରୁବାର।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "ପୁସ୍ତକ : ପଢ଼ିବା :: ଖାଦ୍ୟ : __",
+    "opts": [
+      "ଲେଖିବା",
+      "ଖାଇବା",
+      "ଶୁଣିବା",
+      "ଦେଖିବା"
+    ],
+    "a": 1,
+    "exp": "ପୁସ୍ତକ ପଢ଼ାଯାଏ; ଖାଦ୍ୟ ଖିଆଯାଏ।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "୫ ଜଣ ଲୋକ ଏକ ଧାଡ଼ିରେ ଅଛନ୍ତି। ରମେଶ ବାମରୁ ତୃତୀୟ। ତାଙ୍କ ଡାହାଣରେ କେତେ ଜଣ?",
+    "opts": [
+      "୧",
+      "୨",
+      "୩",
+      "୪"
+    ],
+    "a": 1,
+    "exp": "ତୃତୀୟ ସ୍ଥାନ ପରେ ଦୁଇ ଜଣ ରହିବେ।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "ଅକ୍ଷର ଶ୍ରେଣୀ: A, C, E, G, __",
+    "opts": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "a": 1,
+    "exp": "ପ୍ରତ୍ୟେକ ଥର ଗୋଟିଏ ଅକ୍ଷର ଛାଡ଼ାଯାଉଛି; ପରବର୍ତ୍ତୀ I।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "ଯଦି ସମସ୍ତ ଗୋଲାପ ଫୁଲ ଏବଂ କିଛି ଫୁଲ ଲାଲ, ତେବେ ନିଶ୍ଚିତ ଭାବେ କ’ଣ ସତ୍ୟ?",
+    "opts": [
+      "ସମସ୍ତ ଫୁଲ ଗୋଲାପ",
+      "ସମସ୍ତ ଗୋଲାପ ଫୁଲ",
+      "ସମସ୍ତ ଗୋଲାପ ଲାଲ",
+      "କୌଣସି ଫୁଲ ଲାଲ ନୁହେଁ"
+    ],
+    "a": 1,
+    "exp": "ପ୍ରଥମ ତଥ୍ୟ ଅନୁସାରେ ସମସ୍ତ ଗୋଲାପ ଫୁଲ।"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "q": "୧୪୪ର ବର୍ଗମୂଳ କେତେ?",
+    "opts": [
+      "୧୦",
+      "୧୧",
+      "୧୨",
+      "୧୩"
+    ],
+    "a": 2,
+    "exp": "୧୨ × ୧୨ = ୧୪୪, ତେଣୁ ବର୍ଗମୂଳ ୧୨।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "ଅସଙ୍ଗତ ସଂଖ୍ୟା ବାଛନ୍ତୁ: ୨, ୩, ୫, ୯, ୧୧",
+    "opts": [
+      "୨",
+      "୩",
+      "୯",
+      "୧୧"
+    ],
+    "a": 2,
+    "exp": "୯ ମୌଳିକ ସଂଖ୍ୟା ନୁହେଁ; ଅନ୍ୟଗୁଡ଼ିକ ମୌଳିକ।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "ଯଦି SOUTHକୁ HTUOS ଲେଖାଯାଏ, ତେବେ NORTHକୁ କିପରି ଲେଖାଯିବ?",
+    "opts": [
+      "HTRON",
+      "NROTH",
+      "HRTON",
+      "HTORN"
+    ],
+    "a": 0,
+    "exp": "ଶବ୍ଦଟିକୁ ଓଲଟା କରାଯାଇଛି।"
+  },
+  {
+    "subject": "Reasoning",
+    "q": "୧୦, ୧୩, ୧୬, ୧୯, __",
+    "opts": [
+      "୨୧",
+      "୨୨",
+      "୨୩",
+      "୨୪"
+    ],
+    "a": 1,
+    "exp": "ପ୍ରତ୍ୟେକ ଥର ୩ ଯୋଗ; ପରବର୍ତ୍ତୀ ୨୨।"
+  },
+  {
+    "subject": "General Science",
+    "q": "ଜଳର ରାସାୟନିକ ସୂତ୍ର କ’ଣ?",
+    "opts": [
+      "CO₂",
+      "H₂O",
+      "O₂",
+      "NaCl"
+    ],
+    "a": 1,
+    "exp": "ଜଳର ଅଣୁରେ ଦୁଇଟି ହାଇଡ୍ରୋଜେନ ଓ ଗୋଟିଏ ଅକ୍ସିଜେନ ପରମାଣୁ ଥାଏ।"
+  },
+  {
+    "subject": "General Science",
+    "q": "ମଣିଷ ଶ୍ୱାସକ୍ରିୟାରେ କେଉଁ ଗ୍ୟାସ ଗ୍ରହଣ କରେ?",
+    "opts": [
+      "ନାଇଟ୍ରୋଜେନ",
+      "କାର୍ବନ ଡାଇଅକ୍ସାଇଡ୍",
+      "ଅକ୍ସିଜେନ",
+      "ହାଇଡ୍ରୋଜେନ"
+    ],
+    "a": 2,
+    "exp": "ମଣିଷ ଶ୍ୱାସକ୍ରିୟାରେ ଅକ୍ସିଜେନ ଗ୍ରହଣ କରେ।"
+  },
+  {
+    "subject": "General Science",
+    "q": "ସୂର୍ଯ୍ୟର ଆଲୋକରୁ ମଣିଷ ଶରୀରରେ କେଉଁ ଭିଟାମିନ ତିଆରି ହୁଏ?",
+    "opts": [
+      "ଭିଟାମିନ A",
+      "ଭିଟାମିନ B₁₂",
+      "ଭିଟାମିନ C",
+      "ଭିଟାମିନ D"
+    ],
+    "a": 3,
+    "exp": "ସୂର୍ଯ୍ୟାଲୋକ ଚର୍ମରେ ଭିଟାମିନ D ତିଆରିକୁ ସାହାଯ୍ୟ କରେ।"
+  },
+  {
+    "subject": "General Science",
+    "q": "ବଳର SI ଏକକ କ’ଣ?",
+    "opts": [
+      "ଜୁଲ",
+      "ନ୍ୟୁଟନ",
+      "ୱାଟ",
+      "ପାସ୍କାଲ"
+    ],
+    "a": 1,
+    "exp": "ବଳର SI ଏକକ ନ୍ୟୁଟନ।"
+  },
+  {
+    "subject": "General Science",
+    "q": "ଉଦ୍ଭିଦ ଖାଦ୍ୟ ତିଆରି କରିବା ପ୍ରକ୍ରିୟାକୁ କ’ଣ କୁହାଯାଏ?",
+    "opts": [
+      "ଶ୍ୱସନ",
+      "ବାଷ୍ପୀଭବନ",
+      "ପ୍ରକାଶ ସଂଶ୍ଳେଷଣ",
+      "ଅଙ୍କୁରୋଦ୍ଗମ"
+    ],
+    "a": 2,
+    "exp": "ଉଦ୍ଭିଦ ସୂର୍ଯ୍ୟାଲୋକରେ ପ୍ରକାଶ ସଂଶ୍ଳେଷଣ କରି ଖାଦ୍ୟ ତିଆରି କରେ।"
+  },
+  {
+    "subject": "General Science",
+    "q": "ମଣିଷ ହୃଦୟରେ କେତୋଟି କୋଠରୀ ଅଛି?",
+    "opts": [
+      "୨",
+      "୩",
+      "୪",
+      "୫"
+    ],
+    "a": 2,
+    "exp": "ମଣିଷ ହୃଦୟରେ ଚାରିଟି କୋଠରୀ ଅଛି।"
+  },
+  {
+    "subject": "General Science",
+    "q": "ଅମ୍ଳ ନୀଳ ଲିଟମସ୍ କାଗଜକୁ କେଉଁ ରଙ୍ଗ କରେ?",
+    "opts": [
+      "ଲାଲ",
+      "ସବୁଜ",
+      "ନୀଳ",
+      "ହଳଦିଆ"
+    ],
+    "a": 0,
+    "exp": "ଅମ୍ଳ ନୀଳ ଲିଟମସ୍‌କୁ ଲାଲ କରେ।"
+  },
+  {
+    "subject": "General Science",
+    "q": "ଶବ୍ଦ କେଉଁ ମାଧ୍ୟମରେ ଚାଲିପାରେ ନାହିଁ?",
+    "opts": [
+      "ବାୟୁ",
+      "ଜଳ",
+      "ଶୂନ୍ୟସ୍ଥାନ",
+      "ଲୋହା"
+    ],
+    "a": 2,
+    "exp": "ଶବ୍ଦ ଚାଲିବାକୁ ମାଧ୍ୟମ ଆବଶ୍ୟକ; ଶୂନ୍ୟସ୍ଥାନରେ ଚାଲେ ନାହିଁ।"
+  },
+  {
+    "subject": "General Science",
+    "q": "ରକ୍ତରେ ଅକ୍ସିଜେନ ବହନ କରୁଥିବା ଉପାଦାନ କେଉଁଟି?",
+    "opts": [
+      "ପ୍ଲେଟଲେଟ୍",
+      "ହିମୋଗ୍ଲୋବିନ",
+      "ପ୍ଲାଜ୍ମା",
+      "ଶ୍ୱେତ ରକ୍ତକଣିକା"
+    ],
+    "a": 1,
+    "exp": "ଲାଲ ରକ୍ତକଣିକାର ହିମୋଗ୍ଲୋବିନ ଅକ୍ସିଜେନ ବହନ କରେ।"
+  },
+  {
+    "subject": "General Science",
+    "q": "ସାଧାରଣ ଚାପରେ ଜଳର ସ୍ଫୁଟନାଙ୍କ କେତେ?",
+    "opts": [
+      "୦°C",
+      "୫૦°C",
+      "୧૦૦°C",
+      "୧୫૦°C"
+    ],
+    "a": 2,
+    "exp": "ସାଧାରଣ ବାୟୁଚାପରେ ଜଳ ୧୦୦°Cରେ ଫୁଟେ।"
+  },
+  {
+    "subject": "Computer Literacy",
+    "q": "Which component is known as the brain of a computer?",
+    "opts": [
+      "Monitor",
+      "CPU",
+      "Keyboard",
+      "Mouse"
+    ],
+    "a": 1,
+    "exp": "The CPU processes instructions and is commonly called the brain of the computer."
+  },
+  {
+    "subject": "Computer Literacy",
+    "q": "Which of the following is an input device?",
+    "opts": [
+      "Printer",
+      "Monitor",
+      "Keyboard",
+      "Speaker"
+    ],
+    "a": 2,
+    "exp": "A keyboard is used to enter data into a computer."
+  },
+  {
+    "subject": "Computer Literacy",
+    "q": "What does RAM stand for?",
+    "opts": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Run Access Module",
+      "Rapid Action Memory"
+    ],
+    "a": 1,
+    "exp": "RAM stands for Random Access Memory."
+  },
+  {
+    "subject": "Computer Literacy",
+    "q": "Which file extension is commonly used for a Microsoft Excel workbook?",
+    "opts": [
+      ".docx",
+      ".pptx",
+      ".xlsx",
+      ".jpg"
+    ],
+    "a": 2,
+    "exp": "Modern Microsoft Excel workbooks commonly use the .xlsx extension."
+  },
+  {
+    "subject": "Computer Literacy",
+    "q": "Which protocol is primarily used for secure web browsing?",
+    "opts": [
+      "HTTP",
+      "FTP",
+      "HTTPS",
+      "SMTP"
+    ],
+    "a": 2,
+    "exp": "HTTPS encrypts communication between a browser and a website using TLS."
+  },
+  {
+    "subject": "Computer Literacy",
+    "q": "What is the full form of URL?",
+    "opts": [
+      "Uniform Resource Locator",
+      "Universal Record Link",
+      "Unified Routing Language",
+      "User Reference Location"
+    ],
+    "a": 0,
+    "exp": "URL stands for Uniform Resource Locator."
+  },
+  {
+    "subject": "Computer Literacy",
+    "q": "Which of these is an operating system?",
+    "opts": [
+      "Google Chrome",
+      "Windows",
+      "MS Word",
+      "Oracle Database"
+    ],
+    "a": 1,
+    "exp": "Windows is an operating system."
+  },
+  {
+    "subject": "Computer Literacy",
+    "q": "What is phishing?",
+    "opts": [
+      "A method of data compression",
+      "A fraudulent attempt to obtain sensitive information",
+      "A hardware upgrade",
+      "A type of printer"
+    ],
+    "a": 1,
+    "exp": "Phishing uses deceptive messages or websites to steal information."
+  },
+  {
+    "subject": "Computer Literacy",
+    "q": "Which keyboard shortcut is commonly used to copy selected text?",
+    "opts": [
+      "Ctrl + X",
+      "Ctrl + V",
+      "Ctrl + C",
+      "Ctrl + Z"
+    ],
+    "a": 2,
+    "exp": "Ctrl + C copies selected content."
+  },
+  {
+    "subject": "Computer Literacy",
+    "q": "Which device connects a computer network to another network and forwards data packets?",
+    "opts": [
+      "Router",
+      "Scanner",
+      "Plotter",
+      "Joystick"
+    ],
+    "a": 0,
+    "exp": "A router forwards packets between networks."
+  },
+  {
+    "subject": "Physics",
+    "q": "ବେଗର SI ଏକକ କ’ଣ?",
+    "opts": [
+      "ମିଟର",
+      "ମିଟର/ସେକେଣ୍ଡ",
+      "କିଲୋଗ୍ରାମ",
+      "ନ୍ୟୁଟନ"
+    ],
+    "a": 1,
+    "exp": "ବେଗର SI ଏକକ ମିଟର ପ୍ରତି ସେକେଣ୍ଡ।"
+  },
+  {
+    "subject": "Physics",
+    "q": "ନ୍ୟୁଟନଙ୍କ ପ୍ରଥମ ଗତି ନିୟମକୁ ଆଉ କ’ଣ କୁହାଯାଏ?",
+    "opts": [
+      "ଜଡତ୍ୱର ନିୟମ",
+      "ଶକ୍ତିର ନିୟମ",
+      "ଗୁରୁତ୍ୱ ନିୟମ",
+      "କ୍ରିୟା-ପ୍ରତିକ୍ରିୟା ନିୟମ"
+    ],
+    "a": 0,
+    "exp": "ନ୍ୟୁଟନଙ୍କ ପ୍ରଥମ ନିୟମ ଜଡତ୍ୱର ନିୟମ ଭାବେ ଜଣାଶୁଣା।"
+  },
+  {
+    "subject": "Physics",
+    "q": "ବିଦ୍ୟୁତ୍ ଧାରାର SI ଏକକ କ’ଣ?",
+    "opts": [
+      "ଭୋଲ୍ଟ",
+      "ଓମ୍",
+      "ଆମ୍ପିୟର",
+      "ୱାଟ"
+    ],
+    "a": 2,
+    "exp": "ବିଦ୍ୟୁତ୍ ଧାରାର SI ଏକକ ଆମ୍ପିୟର।"
+  },
+  {
+    "subject": "Physics",
+    "q": "ଆଲୋକର ବେଗ ଶୂନ୍ୟସ୍ଥାନରେ ପ୍ରାୟ କେତେ?",
+    "opts": [
+      "୩×୧୦⁶ m/s",
+      "୩×୧୦⁸ m/s",
+      "୩×୧୦⁵ m/s",
+      "୩×୧୦⁷ m/s"
+    ],
+    "a": 1,
+    "exp": "ଶୂନ୍ୟସ୍ଥାନରେ ଆଲୋକର ବେଗ ପ୍ରାୟ ୩×୧୦⁸ m/s।"
+  },
+  {
+    "subject": "Physics",
+    "q": "ଉତ୍ତଳ ଲେନ୍ସ ସାଧାରଣତଃ କେଉଁ ପ୍ରକାର ଲେନ୍ସ?",
+    "opts": [
+      "ଅପସାରୀ",
+      "ସମାନ୍ତର",
+      "ଅଭିସାରୀ",
+      "ସମତଳ"
+    ],
+    "a": 2,
+    "exp": "ଉତ୍ତଳ ଲେନ୍ସ ଆଲୋକ କିରଣକୁ ଏକତ୍ର କରେ; ଏହା ଅଭିସାରୀ ଲେନ୍ସ।"
+  },
+  {
+    "subject": "Physics",
+    "q": "ଶକ୍ତିର SI ଏକକ କ’ଣ?",
+    "opts": [
+      "ୱାଟ",
+      "ଜୁଲ",
+      "ନ୍ୟୁଟନ",
+      "ପାସ୍କାଲ"
+    ],
+    "a": 1,
+    "exp": "ଶକ୍ତି/କାର୍ଯ୍ୟର SI ଏକକ ଜୁଲ।"
+  },
+  {
+    "subject": "Physics",
+    "q": "ପୃଥିବୀ ପୃଷ୍ଠରେ ମାଧ୍ୟାକର୍ଷଣ ତ୍ୱରଣ ପ୍ରାୟ କେତେ?",
+    "opts": [
+      "୯.୮ m/s²",
+      "୮.୯ m/s²",
+      "୧୦.୮ m/s²",
+      "୯.୮ km/s²"
+    ],
+    "a": 0,
+    "exp": "ପୃଥିବୀ ପୃଷ୍ଠରେ g ପ୍ରାୟ ୯.୮ m/s²।"
+  },
+  {
+    "subject": "Physics",
+    "q": "ବିଦ୍ୟୁତ୍ ପ୍ରତିରୋଧର SI ଏକକ କ’ଣ?",
+    "opts": [
+      "ଭୋଲ୍ଟ",
+      "ୱାଟ",
+      "ଓମ୍",
+      "ଆମ୍ପିୟର"
+    ],
+    "a": 2,
+    "exp": "ବିଦ୍ୟୁତ୍ ପ୍ରତିରୋଧର ଏକକ ଓମ୍।"
+  },
+  {
+    "subject": "Computer Science",
+    "q": "Which data structure follows the LIFO principle?",
+    "opts": [
+      "Queue",
+      "Stack",
+      "Linked list",
+      "Tree"
+    ],
+    "a": 1,
+    "exp": "A stack follows Last In, First Out (LIFO)."
+  },
+  {
+    "subject": "Computer Science",
+    "q": "What is the binary equivalent of decimal 10?",
+    "opts": [
+      "1001",
+      "1010",
+      "1100",
+      "1110"
+    ],
+    "a": 1,
+    "exp": "Decimal 10 is binary 1010."
+  },
+  {
+    "subject": "Computer Science",
+    "q": "Which SQL command is used to retrieve data from a table?",
+    "opts": [
+      "INSERT",
+      "UPDATE",
+      "SELECT",
+      "DELETE"
+    ],
+    "a": 2,
+    "exp": "SELECT retrieves rows from database tables."
+  },
+  {
+    "subject": "Computer Science",
+    "q": "Which of the following is a volatile memory?",
+    "opts": [
+      "ROM",
+      "SSD",
+      "RAM",
+      "DVD"
+    ],
+    "a": 2,
+    "exp": "RAM is volatile because its contents are lost when power is removed."
+  },
+  {
+    "subject": "Computer Science",
+    "q": "What does IP stand for in computer networking?",
+    "opts": [
+      "Internet Protocol",
+      "Internal Program",
+      "Information Process",
+      "Integrated Platform"
+    ],
+    "a": 0,
+    "exp": "IP stands for Internet Protocol."
+  },
+  {
+    "subject": "Computer Science",
+    "q": "Which logic gate produces an output of 1 only when all inputs are 1?",
+    "opts": [
+      "OR",
+      "NOT",
+      "AND",
+      "XOR"
+    ],
+    "a": 2,
+    "exp": "An AND gate outputs 1 only when every input is 1."
+  },
+  {
+    "subject": "Computer Science",
+    "q": "Which language is primarily used to structure web pages?",
+    "opts": [
+      "CSS",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "a": 1,
+    "exp": "HTML provides the structure and content of web pages."
+  }
+]
