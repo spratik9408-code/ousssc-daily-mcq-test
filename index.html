@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>OUSSC Daily MCQ Test</title>
+<style>
+:root{--navy:#142b4a;--blue:#2463eb;--bg:#f3f6fb;--line:#dce3ed;--green:#13804a;--red:#c62828}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);font-family:Arial,"Noto Sans Oriya",sans-serif;color:#172334}
+header{background:var(--navy);color:#fff;padding:22px 16px;text-align:center}
+header h1{font-size:22px;margin:0 0 6px}header p{margin:0;color:#d9e5f5;font-size:13px}
+main{max-width:900px;margin:20px auto;padding:0 14px}
+.panel{background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px;margin-bottom:14px;box-shadow:0 3px 12px #1c35500a}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}.stat{background:#f5f8fc;border-radius:10px;padding:10px;text-align:center}.stat b{display:block;font-size:20px}.stat span{font-size:11px;color:#607086}
+button{border:0;border-radius:9px;padding:12px 16px;font-weight:700;cursor:pointer;background:var(--blue);color:#fff}button.secondary{background:#e9eef6;color:#20334d}button:disabled{opacity:.4;cursor:not-allowed}
+.topline{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap}.muted{color:#607086;font-size:13px}
+#question{font-size:18px;line-height:1.55;margin:18px 0}
+.option{display:flex;gap:10px;align-items:flex-start;border:1px solid var(--line);border-radius:10px;padding:12px;margin:9px 0;cursor:pointer}
+.option:has(input:checked){border-color:var(--blue);background:#f0f5ff}.option input{margin-top:3px;accent-color:var(--blue)}
+.nav{display:flex;justify-content:space-between;gap:8px;margin-top:18px}
+.grid{display:grid;grid-template-columns:repeat(10,1fr);gap:6px;margin-top:12px}
+.qnum{padding:8px 0;background:#edf1f6;color:#334;border-radius:7px;font-size:12px}.qnum.done{background:#d8f1e3;color:#12643b}.qnum.current{outline:2px solid var(--blue)}
+.hidden{display:none}.result{text-align:center}.score{font-size:42px;font-weight:800;color:var(--navy)}
+.pass{color:var(--green);font-weight:800}.fail{color:var(--red);font-weight:800}
+footer{text-align:center;color:#718096;font-size:11px;padding:20px}
+@media(max-width:560px){.stats{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:repeat(8,1fr)}#question{font-size:16px}}
+</style>
+</head>
+<body>
+<header><h1>OUSSC DAILY MCQ TEST</h1><p>Constable (Communication) • Syllabus-based practice</p></header>
+<main>
+<section class="panel" id="intro">
+ <div class="topline"><div><h2 style="margin:0 0 6px">Daily Practice Test</h2><div class="muted">Demo version — 10 sample questions. Daily full papers can be added as fresh question sets.</div></div><span class="muted">100 marks • 120 min pattern</span></div>
+ <div class="stats" style="margin:18px 0">
+  <div class="stat"><b>+1</b><span>Correct</span></div><div class="stat"><b>−0.25</b><span>Incorrect</span></div><div class="stat"><b>0</b><span>Unanswered</span></div><div class="stat"><b>75</b><span>Pass marks</span></div>
+ </div>
+ <p class="muted">Choose one option for each question. Your score is calculated automatically after submission. English Language and Computer topics are in English; other subjects are in Odia where supported.</p>
+ <button onclick="startTest()">Start Demo Test</button>
+</section>
+<section class="panel hidden" id="exam">
+ <div class="topline"><b id="progress">Question 1 of 10</b><b id="timer">20:00</b></div>
+ <div class="muted" id="subject" style="margin-top:8px"></div>
+ <div id="question"></div><div id="options"></div>
+ <div class="nav"><button class="secondary" id="prev" onclick="move(-1)">Previous</button><button id="next" onclick="move(1)">Next</button><button class="secondary" onclick="submitTest()">Submit Test</button></div>
+ <div class="muted" style="margin-top:18px">Question navigator (green = answered)</div><div class="grid" id="navigator"></div>
+</section>
+<section class="panel hidden result" id="result">
+ <h2>Test Result</h2><div class="score" id="score"></div><div id="status"></div><p id="breakdown" class="muted"></p>
+ <button onclick="review()">Review Answers</button> <button class="secondary" onclick="location.reload()">Close</button>
+</section>
+<section class="panel hidden" id="reviewPanel"><h2>Answer Review</h2><div id="reviewList"></div></section>
+</main>
+<footer>Practice portal prototype • Questions in this demo are illustrative, not an official OUSSC paper.</footer>
+<script>
+const questions=[
+{subject:"Quantitative Aptitude",q:"यदि किसी संख्या का 25% = 40 है, तो वह संख्या कितनी है?",o:["120","140","160","180"],a:2,e:"40 ÷ 0.25 = 160."},
+{subject:"Reasoning",q:"श्रृंखला पूरी करें: 2, 6, 12, 20, 30, ?",o:["36","40","42","44"],a:2,e:"अंतर 4, 6, 8, 10 और अगला अंतर 12 है; 30 + 12 = 42."},
+{subject:"General Knowledge",q:"भारत का संविधान कब लागू हुआ?",o:["15 अगस्त 1947","26 जनवरी 1950","26 नवम्बर 1949","2 अक्टूबर 1950"],a:1,e:"भारतीय संविधान 26 जनवरी 1950 को लागू हुआ."},
+{subject:"Physics",q:"विद्युत धारा की SI इकाई क्या है?",o:["वोल्ट","ओम","एम्पियर","वाट"],a:2,e:"विद्युत धारा की SI इकाई एम्पियर है."},
+{subject:"English Language",q:"Choose the antonym of “Ancient”.",o:["Old","Modern","Historic","Past"],a:1,e:"Modern means belonging to the present or recent times."},
+{subject:"Basic Computer Literacy",q:"Which of the following is an operating system?",o:["MS Word","Linux","Google Chrome","HTML"],a:1,e:"Linux is an operating system."},
+{subject:"ଓଡ଼ିଆ ଭାଷା",q:"‘ଆକାଶ’ ଶବ୍ଦର ଏକ ପର୍ଯ୍ୟାୟବାଚୀ ଶବ୍ଦ କେଉଁଟି?",o:["ଗଗନ","ପବନ","ଧରଣୀ","ସାଗର"],a:0,e:"‘ଗଗନ’ ହେଉଛି ‘ଆକାଶ’ର ପର୍ଯ୍ୟାୟବାଚୀ ଶବ୍ଦ."},
+{subject:"Geography",q:"ଓଡ଼ିଶାର ଦୀର୍ଘତମ ନଦୀ କେଉଁଟି?",o:["ବ୍ରାହ୍ମଣୀ","ବୈତରଣୀ","ମହାନଦୀ","ରୁଷିକୁଲ୍ୟା"],a:2,e:"ମହାନଦୀ ଓଡ଼ିଶାର ପ୍ରମୁଖ ଏବଂ ଦୀର୍ଘତମ ନଦୀ."},
+{subject:"Computer Science",q:"Which data structure follows the LIFO principle?",o:["Queue","Stack","Array","Linked list"],a:1,e:"A stack follows Last In, First Out (LIFO)."},
+{subject:"Polity",q:"ଭାରତୀୟ ସମ୍ବିଧାନର ମୌଳିକ ଅଧିକାର କେଉଁ ଭାଗରେ ରହିଛି?",o:["ଭାଗ I","ଭାଗ II","ଭାଗ III","ଭାଗ IV"],a:2,e:"ମୌଳିକ ଅଧିକାର ସମ୍ବିଧାନର ଭାଗ IIIରେ ରହିଛି."}
+];
+let answers=Array(questions.length).fill(null),idx=0,seconds=1200,interval;
+function startTest(){document.getElementById('intro').classList.add('hidden');document.getElementById('exam').classList.remove('hidden');render();interval=setInterval(()=>{seconds--;document.getElementById('timer').textContent=Math.floor(seconds/60)+":"+String(seconds%60).padStart(2,'0');if(seconds<=0)submitTest()},1000)}
+function render(){let q=questions[idx];document.getElementById('progress').textContent=`Question ${idx+1} of ${questions.length}`;document.getElementById('subject').textContent=q.subject;document.getElementById('question').textContent=q.q;document.getElementById('options').innerHTML=q.o.map((v,i)=>`<label class="option"><input type="radio" name="answer" ${answers[idx]===i?'checked':''} onchange="selectAnswer(${i})"><span><b>${"ABCD"[i]}.</b> ${v}</span></label>`).join('');document.getElementById('prev').disabled=idx===0;document.getElementById('next').disabled=idx===questions.length-1;document.getElementById('navigator').innerHTML=questions.map((_,i)=>`<button class="qnum ${answers[i]!==null?'done':''} ${i===idx?'current':''}" onclick="idx=${i};render()">${i+1}</button>`).join('')}
+function selectAnswer(i){answers[idx]=i;render()}
+function move(d){idx=Math.max(0,Math.min(questions.length-1,idx+d));render()}
+function submitTest(){clearInterval(interval);let correct=0,wrong=0,blank=0;questions.forEach((q,i)=>{if(answers[i]===null)blank++;else if(answers[i]===q.a)correct++;else wrong++});let score=correct-wrong*.25;document.getElementById('exam').classList.add('hidden');document.getElementById('result').classList.remove('hidden');document.getElementById('score').textContent=score.toFixed(2)+" / "+questions.length;document.getElementById('status').innerHTML=score>=75?'<p class="pass">PASS</p>':'<p class="fail">NOT QUALIFIED — PASS MARK 75</p>';document.getElementById('breakdown').textContent=`Correct: ${correct} • Wrong: ${wrong} • Unattempted: ${blank} • Negative marks: ${(wrong*.25).toFixed(2)}`}
+function review(){document.getElementById('reviewPanel').classList.remove('hidden');document.getElementById('reviewList').innerHTML=questions.map((q,i)=>`<div style="border-top:1px solid #ddd;padding:12px 0"><b>Q${i+1}. ${q.q}</b><p>Your answer: ${answers[i]===null?'Not attempted':q.o[answers[i]]}</p><p style="color:green">Correct: ${q.o[q.a]}</p><small>${q.e}</small></div>`).join('')}
+</script>
+</body></html>
