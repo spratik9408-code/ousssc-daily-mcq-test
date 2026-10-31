@@ -4,8 +4,10 @@ import random
 import pathlib
 import datetime
 import sys
+from zoneinfo import ZoneInfo
 
 BASE_DIR = pathlib.Path(__file__).resolve().parent
+
 BANK_FILE = BASE_DIR / "question-bank.json"
 OUTPUT_FILE = BASE_DIR / "daily-test.json"
 
@@ -14,76 +16,56 @@ PASS_MARK = 75
 DURATION_MINUTES = 120
 
 
-def load_bank():
+def main():
+    # Load the question bank
     if not BANK_FILE.is_file():
         raise FileNotFoundError(
-            f"Cannot find question-bank.json at: {BANK_FILE}"
+            f"Question bank not found: {BANK_FILE}"
         )
 
-    with BANK_FILE.open("r", encoding="utf-8") as f:
-        data = json.load(f)
+    with BANK_FILE.open("r", encoding="utf-8") as file:
+        bank = json.load(file)
 
-    if isinstance(data, list):
-        questions = data
-    elif isinstance(data, dict):
-        questions = data.get("questions")
-    else:
-        questions = None
+    if not isinstance(bank, list):
+        raise ValueError("Question bank must contain a JSON list.")
 
-    if not isinstance(questions, list):
-        raise ValueError(
-            "Question bank must be a list or contain a questions list."
-        )
+    if len(bank) < TOTAL_QUESTIONS:
+        raise ValueError("At least 100 questions are required.")
 
-    if len(questions) < TOTAL_QUESTIONS:
-        raise ValueError(
-            f"Only {len(questions)} questions found; 100 are required."
-        )
+    # Validate the actual question-bank format
+    for number, question in enumerate(bank, start=1):
+        if not isinstance(question, dict):
+            raise ValueError(f"Invalid question record: {number}")
 
-    return questions
+        for field in ("subject", "q", "opts", "a", "exp"):
+            if field not in question:
+                raise ValueError(
+                    f"Question {number} is missing field: {field}"
+                )
 
+        if not isinstance(question["opts"], list):
+            raise ValueError(f"Question {number}: opts must be a list.")
 
-def validate_bank(questions):
-    for number, q in enumerate(questions, start=1):
-        if not isinstance(q, dict):
-            raise ValueError(f"Question {number} is not an object.")
-
-        if not q.get("question"):
-            raise ValueError(f"Question {number} has no question text.")
-
-        options = q.get("options")
-
-        if isinstance(options, list):
-            valid_options = len(options) == 4
-        elif isinstance(options, dict):
-            valid_options = all(
-                key in options for key in ("A", "B", "C", "D")
-            )
-        else:
-            valid_options = False
-
-        if not valid_options:
+        if len(question["opts"]) != 4:
             raise ValueError(
-                f"Question {number} must have four A/B/C/D options."
+                f"Question {number} must have four options."
             )
 
-        if "answer" not in q:
-            raise ValueError(f"Question {number} has no answer.")
+        if not isinstance(question["a"], int) or question["a"] not in range(4):
+            raise ValueError(
+                f"Question {number} has an invalid answer index."
+            )
 
-
-def main():
-    questions = load_bank()
-    validate_bank(questions)
-
+    # Use Indian Standard Time
     today = datetime.datetime.now(
-        datetime.timezone.utc
-    ).astimezone(
-        datetime.timezone(datetime.timedelta(hours=5, minutes=30))
+        ZoneInfo("Asia/Kolkata")
     ).date().isoformat()
 
+    # Generate a different paper for each date
     rng = random.Random("OUSSC-" + today)
-    daily_questions = rng.sample(questions, TOTAL_QUESTIONS)
+    daily_questions = rng.sample(bank, TOTAL_QUESTIONS)
 
+    # Keep the original question fields unchanged
     paper = {
         "title": "OUSSC Daily Constable Practice Test",
         "date": today,
@@ -96,16 +78,24 @@ def main():
         "questions": daily_questions
     }
 
-    with OUTPUT_FILE.open("w", encoding="utf-8") as f:
-        json.dump(paper, f, ensure_ascii=False, indent=2)
+    # Save the daily question paper
+    with OUTPUT_FILE.open("w", encoding="utf-8") as file:
+        json.dump(
+            paper,
+            file,
+            ensure_ascii=False,
+            indent=2
+        )
 
-    print(f"SUCCESS: Generated {TOTAL_QUESTIONS} questions for {today}")
-    print(f"Saved to: {OUTPUT_FILE}")
+    print("SUCCESS: Daily test generated.")
+    print("Date:", today)
+    print("Questions:", len(daily_questions))
+    print("Output:", OUTPUT_FILE)
 
 
 if __name__ == "__main__":
     try:
         main()
     except Exception as error:
-        print(f"ERROR: {error}")
+        print("ERROR:", error)
         sys.exit(1)
