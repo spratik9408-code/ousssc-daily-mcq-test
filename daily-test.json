@@ -1,6 +1,6 @@
 {
   "title": "OUSSC Daily Constable Practice Test",
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "totalQuestions": 100,
   "durationMinutes": 120,
   "positiveMarks": 1,
@@ -9,688 +9,100 @@
   "passMark": 75,
   "questions": [
     {
-      "subject": "Reasoning",
-      "q": "If 24 is related to 12 by the same rule, what is the number related to 45?",
-      "opts": [
-        "43",
-        "3",
-        "23",
-        "33"
-      ],
-      "a": 3,
-      "exp": "Apply the same change (-12): 45 + (-12) = 33."
-    },
-    {
-      "subject": "General Science",
-      "q": "General science revision 465: Which is the largest organ of the human body?",
-      "opts": [
-        "Skin",
-        "Oxygen",
-        "Nitrogen",
-        "Heart"
-      ],
-      "a": 0,
-      "exp": "Correct answer: Skin."
-    },
-    {
-      "subject": "Computer Science",
-      "q": "Computer Science revision 272: tcp is a?",
-      "opts": [
-        "A finite sequence of steps to solve a problem",
-        "1010",
-        "Authenticity and integrity",
-        "Connection-oriented transport protocol"
-      ],
-      "a": 3,
-      "exp": "Correct answer: Connection-oriented transport protocol."
-    },
-    {
-      "subject": "Computer Literacy",
-      "q": "Computer literacy revision 239: What is social engineering?",
-      "opts": [
-        "Universal Serial Bus",
-        "Router",
-        "Manipulating people to disclose information or perform actions",
-        "Structured Query Language"
-      ],
-      "a": 2,
-      "exp": "Correct answer: Manipulating people to disclose information or perform actions."
-    },
-    {
-      "subject": "Quantitative Aptitude",
-      "q": "What is the square of 66?",
-      "opts": [
-        "4356",
-        "4366",
-        "4351",
-        "4306"
-      ],
-      "a": 0,
-      "exp": "66² = 4356."
-    },
-    {
-      "subject": "General Science",
-      "q": "General science revision 317: Which gas is necessary for respiration?",
-      "opts": [
-        "Chlorophyll",
-        "Heart",
-        "Oxygen",
-        "Skin"
-      ],
-      "a": 2,
-      "exp": "Correct answer: Oxygen."
-    },
-    {
-      "subject": "General Science",
-      "q": "General science revision 493: Which organ produces insulin?",
-      "opts": [
-        "Chlorophyll",
-        "Potassium",
-        "Pancreas",
-        "Glucose"
-      ],
-      "a": 2,
-      "exp": "Correct answer: Pancreas."
-    },
-    {
-      "subject": "English Language",
-      "q": "English vocabulary practice 173: choose the synonym of 'generous'.",
-      "opts": [
-        "depart",
-        "happy",
-        "swift",
-        "stingy"
-      ],
-      "a": 3,
-      "exp": "'stingy' is the correct synonym in this question."
-    },
-    {
       "subject": "Odia Language",
-      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 335: ‘ଶୁଦ୍ଧ’ର ବିପରୀତାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 194: ‘ରାଜା’ର ସମାନାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
       "opts": [
-        "ଅଶୁଦ୍ଧ",
         "ମିତ୍ର",
-        "ଗଗନ",
-        "ସୁଖ"
-      ],
-      "a": 0,
-      "exp": "ଠିକ୍ ଉତ୍ତର: ଅଶୁଦ୍ଧ।"
-    },
-    {
-      "subject": "Reasoning",
-      "q": "Find the next number: 131, 137, 143, 149, 155, ?",
-      "opts": [
-        "151",
-        "156",
-        "161",
-        "191"
-      ],
-      "a": 2,
-      "exp": "The series increases by 6; next number is 161."
-    },
-    {
-      "subject": "Computer Science",
-      "q": "Computer Science revision 102: a data structure used in last-in, first-out order is?",
-      "opts": [
-        "Stack",
-        "Authenticity and integrity",
-        "A pair of mathematically related keys",
-        "Queue"
-      ],
-      "a": 0,
-      "exp": "Correct answer: Stack."
-    },
-    {
-      "subject": "Quantitative Aptitude",
-      "q": "Calculate: 5395 − 3.",
-      "opts": [
-        "5492",
-        "5442",
-        "5372",
-        "5392"
+        "ଶତ୍ରୁ",
+        "ଅନ୍ଧକାର",
+        "ନୃପ"
       ],
       "a": 3,
-      "exp": "5395 − 3 = 5392."
-    },
-    {
-      "subject": "Reasoning",
-      "q": "If 18 is related to 40 by the same rule, what is the number related to 11?",
-      "opts": [
-        "13",
-        "53",
-        "33",
-        "38"
-      ],
-      "a": 2,
-      "exp": "Apply the same change (22): 11 + (22) = 33."
-    },
-    {
-      "subject": "General Science",
-      "q": "General science revision 252: Which vitamin is essential for blood clotting?",
-      "opts": [
-        "Potassium",
-        "Nitrogen",
-        "Vitamin K",
-        "Vitamin C"
-      ],
-      "a": 2,
-      "exp": "Correct answer: Vitamin K."
-    },
-    {
-      "subject": "Quantitative Aptitude",
-      "q": "Calculate: 8612 − 74.",
-      "opts": [
-        "8518",
-        "8543",
-        "8538",
-        "8528"
-      ],
-      "a": 2,
-      "exp": "8612 − 74 = 8538."
+      "exp": "ଠିକ୍ ଉତ୍ତର: ନୃପ।"
     },
     {
       "subject": "General Knowledge",
-      "q": "General knowledge revision 600: Who was the first President of India?",
+      "q": "General knowledge revision 416: What is the capital of Odisha?",
       "opts": [
-        "Ganga",
-        "Mumbai",
-        "Dr Rajendra Prasad",
-        "Patna"
-      ],
-      "a": 2,
-      "exp": "Correct answer: Dr Rajendra Prasad."
-    },
-    {
-      "subject": "General Science",
-      "q": "General science revision 263: Which component of blood helps in clotting?",
-      "opts": [
-        "Carbon dioxide",
-        "Platelets",
-        "Oxygen",
-        "Moon"
-      ],
-      "a": 1,
-      "exp": "Correct answer: Platelets."
-    },
-    {
-      "subject": "General Knowledge",
-      "q": "Which ocean lies to the south of India?",
-      "opts": [
-        "Jupiter",
-        "Chennai",
-        "Indian Ocean",
-        "New Delhi"
-      ],
-      "a": 2,
-      "exp": "Correct answer: Indian Ocean."
-    },
-    {
-      "subject": "English Language",
-      "q": "English vocabulary practice 459: choose the synonym of 'inevitable'.",
-      "opts": [
-        "rare",
-        "unavoidable",
-        "swift",
-        "stingy"
-      ],
-      "a": 1,
-      "exp": "'unavoidable' is the correct synonym in this question."
-    },
-    {
-      "subject": "Computer Literacy",
-      "q": "Computer literacy revision 387: What is a strong password practice?",
-      "opts": [
-        "Use a long, unique password",
-        "Universal Serial Bus",
-        "Random Access Memory",
-        "Router"
-      ],
-      "a": 0,
-      "exp": "Correct answer: Use a long, unique password."
-    },
-    {
-      "subject": "Computer Science",
-      "q": "Computer Science revision 161: an algorithm is best described as?",
-      "opts": [
-        "A fixed-length digest",
-        "Authenticity and integrity",
-        "A connectionless transport protocol",
-        "A finite sequence of steps to solve a problem"
-      ],
-      "a": 3,
-      "exp": "Correct answer: A finite sequence of steps to solve a problem."
-    },
-    {
-      "subject": "English Language",
-      "q": "English vocabulary practice 349: choose the synonym of 'vacant'.",
-      "opts": [
-        "modern",
-        "empty",
-        "happy",
-        "rare"
-      ],
-      "a": 1,
-      "exp": "'empty' is the correct synonym in this question."
-    },
-    {
-      "subject": "Quantitative Aptitude",
-      "q": "Calculate: 3376 + 76.",
-      "opts": [
-        "3452",
-        "3352",
-        "3552",
-        "3432"
-      ],
-      "a": 0,
-      "exp": "3376 + 76 = 3452."
-    },
-    {
-      "subject": "Reasoning",
-      "q": "Find the next number: 85, 110, 135, 160, 185, 210, 235, ?",
-      "opts": [
-        "230",
-        "260",
-        "265",
-        "255"
-      ],
-      "a": 1,
-      "exp": "The series increases by 25; next number is 260."
-    },
-    {
-      "subject": "General Knowledge",
-      "q": "General knowledge revision 985: Which organisation is responsible for global public health?",
-      "opts": [
-        "Bhopal",
-        "World Health Organization",
-        "Goa",
-        "Patna"
-      ],
-      "a": 1,
-      "exp": "Correct answer: World Health Organization."
-    },
-    {
-      "subject": "General Science",
-      "q": "General science revision 343: Which organ produces insulin?",
-      "opts": [
-        "Oxygen",
-        "Pancreas",
-        "Calcium",
-        "Mercury"
-      ],
-      "a": 1,
-      "exp": "Correct answer: Pancreas."
-    },
-    {
-      "subject": "Computer Science",
-      "q": "Computer Science revision 140: a packet is?",
-      "opts": [
-        "Source code into machine or target code",
-        "16",
-        "A formatted unit of data carried over a network",
-        "A fixed-length digest"
-      ],
-      "a": 2,
-      "exp": "Correct answer: A formatted unit of data carried over a network."
-    },
-    {
-      "subject": "Reasoning",
-      "q": "If 37 is related to 6 by the same rule, what is the number related to 25?",
-      "opts": [
-        "-6",
-        "-16",
-        "4",
-        "-36"
-      ],
-      "a": 0,
-      "exp": "Apply the same change (-31): 25 + (-31) = -6."
-    },
-    {
-      "subject": "General Knowledge",
-      "q": "General knowledge revision 152: Which tiger reserve is located in Odisha?",
-      "opts": [
+        "Lucknow",
+        "Guwahati",
         "Kolkata",
-        "Lok Sabha",
-        "Mumbai",
-        "Similipal Tiger Reserve"
+        "Bhubaneswar"
       ],
       "a": 3,
-      "exp": "Correct answer: Similipal Tiger Reserve."
+      "exp": "Correct answer: Bhubaneswar."
     },
     {
-      "subject": "General Knowledge",
-      "q": "General knowledge revision 984: How many permanent members are there in the UN Security Council?",
+      "subject": "Quantitative Aptitude",
+      "q": "What is the square of 52?",
       "opts": [
-        "Ganga",
-        "Jupiter",
-        "Five",
-        "New Delhi"
+        "2699",
+        "2654",
+        "2704",
+        "2604"
       ],
       "a": 2,
-      "exp": "Correct answer: Five."
-    },
-    {
-      "subject": "General Knowledge",
-      "q": "General knowledge revision 220: Which crop is known as a kharif crop?",
-      "opts": [
-        "Rajya Sabha",
-        "Bhopal",
-        "Rice",
-        "Ranchi"
-      ],
-      "a": 2,
-      "exp": "Correct answer: Rice."
+      "exp": "52² = 2704."
     },
     {
       "subject": "Odia Language",
-      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 206: ‘ଧନୀ’ର ସମାନାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 339: ‘ସ୍ୱାଧୀନ’ର ବିପରୀତାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
       "opts": [
         "ବିଷ",
         "ଗଗନ",
-        "ପାଣି",
-        "ଦୁଃଖ"
+        "ଅନ୍ଧକାର",
+        "ପରାଧୀନ"
       ],
-      "a": 2,
-      "exp": "ଠିକ୍ ଉତ୍ତର: ପାଣି।"
+      "a": 3,
+      "exp": "ଠିକ୍ ଉତ୍ତର: ପରାଧୀନ।"
     },
     {
       "subject": "General Knowledge",
-      "q": "General knowledge revision 739: Which day is observed as India's Independence Day?",
+      "q": "General knowledge revision 771: Who was the chairman of the Drafting Committee?",
       "opts": [
         "Bhopal",
-        "15 August",
-        "Goa",
-        "New Delhi"
-      ],
-      "a": 1,
-      "exp": "Correct answer: 15 August."
-    },
-    {
-      "subject": "Quantitative Aptitude",
-      "q": "Find 25% of 5450.",
-      "opts": [
-        "1262",
-        "1382",
-        "1362",
-        "1367"
+        "Patna",
+        "Dr B. R. Ambedkar",
+        "Mumbai"
       ],
       "a": 2,
-      "exp": "25% of 5450 = 1362."
-    },
-    {
-      "subject": "Quantitative Aptitude",
-      "q": "Calculate: 7287 + 99.",
-      "opts": [
-        "7391",
-        "7376",
-        "7386",
-        "7336"
-      ],
-      "a": 2,
-      "exp": "7287 + 99 = 7386."
-    },
-    {
-      "subject": "Physics",
-      "q": "A vehicle travels at 18 m/s for 17 seconds. Find the distance.",
-      "opts": [
-        "301 m",
-        "256 m",
-        "306 m",
-        "356 m"
-      ],
-      "a": 2,
-      "exp": "Distance = speed × time = 18 × 17 = 306 m."
-    },
-    {
-      "subject": "General Knowledge",
-      "q": "General knowledge revision 354: In which year was the Constitution of India adopted?",
-      "opts": [
-        "Guwahati",
-        "Chennai",
-        "1949",
-        "Jupiter"
-      ],
-      "a": 2,
-      "exp": "Correct answer: 1949."
-    },
-    {
-      "subject": "Quantitative Aptitude",
-      "q": "Calculate: 2850 − 81.",
-      "opts": [
-        "2769",
-        "2764",
-        "2789",
-        "2749"
-      ],
-      "a": 0,
-      "exp": "2850 − 81 = 2769."
-    },
-    {
-      "subject": "General Science",
-      "q": "General science revision 362: Which blood cells carry oxygen?",
-      "opts": [
-        "Red blood cells",
-        "Potassium",
-        "Pancreas",
-        "Moon"
-      ],
-      "a": 0,
-      "exp": "Correct answer: Red blood cells."
-    },
-    {
-      "subject": "Quantitative Aptitude",
-      "q": "Additional arithmetic practice 51: calculate 1809 + 10.",
-      "opts": [
-        "1819",
-        "1839",
-        "1799",
-        "1809"
-      ],
-      "a": 0,
-      "exp": "1809 + 10 = 1819."
+      "exp": "Correct answer: Dr B. R. Ambedkar."
     },
     {
       "subject": "Computer Science",
-      "q": "Computer Science revision 198: the principle of least privilege means?",
+      "q": "Computer Science revision 159: a log file is useful for?",
       "opts": [
-        "Stack",
-        "Source code into machine or target code",
         "Uniquely identify a record",
-        "Granting only the permissions necessary"
-      ],
-      "a": 3,
-      "exp": "Correct answer: Granting only the permissions necessary."
-    },
-    {
-      "subject": "General Knowledge",
-      "q": "General knowledge revision 247: Which is the national tree of India?",
-      "opts": [
-        "Odissi",
-        "Banyan",
-        "Jupiter",
-        "Ganga"
-      ],
-      "a": 1,
-      "exp": "Correct answer: Banyan."
-    },
-    {
-      "subject": "Computer Science",
-      "q": "Computer Science revision 206: an operating system manages?",
-      "opts": [
+        "Recording events for monitoring and investigation",
         "Queue",
-        "Computer hardware and software resources",
-        "A fixed-length digest",
-        "Repeat a set of instructions"
+        "A connectionless transport protocol"
       ],
       "a": 1,
-      "exp": "Correct answer: Computer hardware and software resources."
+      "exp": "Correct answer: Recording events for monitoring and investigation."
+    },
+    {
+      "subject": "English Language",
+      "q": "English vocabulary practice 498: choose the antonym of 'tranquil'.",
+      "opts": [
+        "opposite",
+        "defeat",
+        "rare",
+        "contract"
+      ],
+      "a": 0,
+      "exp": "'opposite' is the correct antonym in this question."
     },
     {
       "subject": "General Knowledge",
-      "q": "General knowledge revision 710: Which gas is most abundant in Earth's atmosphere?",
+      "q": "General knowledge revision 877: Which layer protects Earth from much of the Sun's ultraviolet radiation?",
       "opts": [
-        "Nitrogen",
-        "Lucknow",
-        "Pune",
-        "Rajya Sabha"
-      ],
-      "a": 0,
-      "exp": "Correct answer: Nitrogen."
-    },
-    {
-      "subject": "Physics",
-      "q": "A body of mass 4 kg accelerates at 18 m/s². Find the force.",
-      "opts": [
-        "47 N",
-        "72 N",
-        "122 N",
-        "77 N"
-      ],
-      "a": 1,
-      "exp": "F = m × a = 4 × 18 = 72 N."
-    },
-    {
-      "subject": "General Science",
-      "q": "General science revision 261: Which blood cells help fight infection?",
-      "opts": [
-        "Heart",
-        "White blood cells",
-        "Mercury",
-        "Iron"
-      ],
-      "a": 1,
-      "exp": "Correct answer: White blood cells."
-    },
-    {
-      "subject": "Physics",
-      "q": "A vehicle travels at 58 m/s for 7 seconds. Find the distance.",
-      "opts": [
-        "406 m",
-        "411 m",
-        "401 m",
-        "356 m"
-      ],
-      "a": 0,
-      "exp": "Distance = speed × time = 58 × 7 = 406 m."
-    },
-    {
-      "subject": "General Knowledge",
-      "q": "General knowledge revision 87: What is the capital of India?",
-      "opts": [
-        "Guwahati",
-        "Goa",
         "Chilika Lake",
-        "New Delhi"
-      ],
-      "a": 3,
-      "exp": "Correct answer: New Delhi."
-    },
-    {
-      "subject": "Odia Language",
-      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 472: ‘ବନ’ର ସମାନାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
-      "opts": [
-        "ଅରଣ୍ୟ",
-        "ମିତ୍ର",
-        "ପାଣି",
-        "ଗଗନ"
-      ],
-      "a": 0,
-      "exp": "ଠିକ୍ ଉତ୍ତର: ଅରଣ୍ୟ।"
-    },
-    {
-      "subject": "General Knowledge",
-      "q": "General knowledge revision 307: Who founded the Indian National Congress?",
-      "opts": [
-        "A. O. Hume",
-        "Hyderabad",
-        "Chennai",
-        "Surat"
-      ],
-      "a": 0,
-      "exp": "Correct answer: A. O. Hume."
-    },
-    {
-      "subject": "Physics",
-      "q": "A vehicle travels at 5 m/s for 5 seconds. Find the distance.",
-      "opts": [
-        "20 m",
-        "25 m",
-        "1 m",
-        "50 m"
-      ],
-      "a": 1,
-      "exp": "Distance = speed × time = 5 × 5 = 25 m."
-    },
-    {
-      "subject": "Reasoning",
-      "q": "Find the next number: 385, 395, 405, 415, ?",
-      "opts": [
-        "395",
-        "420",
-        "425",
-        "405"
+        "Mumbai",
+        "Ozone layer",
+        "Ranchi"
       ],
       "a": 2,
-      "exp": "The series increases by 10; next number is 425."
-    },
-    {
-      "subject": "General Knowledge",
-      "q": "Who gave the slogan 'Do or Die'?",
-      "opts": [
-        "Goa",
-        "Mahatma Gandhi",
-        "Jaipur",
-        "Chennai"
-      ],
-      "a": 1,
-      "exp": "Correct answer: Mahatma Gandhi."
-    },
-    {
-      "subject": "Odia Language",
-      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 255: ‘ଶୁଦ୍ଧ’ର ବିପରୀତାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
-      "opts": [
-        "ଆଲୋକ",
-        "ଦୁଃଖ",
-        "ଅଶୁଦ୍ଧ",
-        "ମିତ୍ର"
-      ],
-      "a": 2,
-      "exp": "ଠିକ୍ ଉତ୍ତର: ଅଶୁଦ୍ଧ।"
-    },
-    {
-      "subject": "Quantitative Aptitude",
-      "q": "Calculate: 521 + 77.",
-      "opts": [
-        "588",
-        "598",
-        "698",
-        "608"
-      ],
-      "a": 1,
-      "exp": "521 + 77 = 598."
-    },
-    {
-      "subject": "General Knowledge",
-      "q": "Which river is called the Sorrow of Bihar?",
-      "opts": [
-        "Lucknow",
-        "Kosi",
-        "Konark",
-        "New Delhi"
-      ],
-      "a": 1,
-      "exp": "Correct answer: Kosi."
-    },
-    {
-      "subject": "Quantitative Aptitude",
-      "q": "Evaluate: 130104 ÷ 39.",
-      "opts": [
-        "3336",
-        "3386",
-        "3286",
-        "3331"
-      ],
-      "a": 0,
-      "exp": "130104 ÷ 39 = 3336."
+      "exp": "Correct answer: Ozone layer."
     },
     {
       "subject": "Physics",
@@ -705,508 +117,1096 @@
       "exp": "F = m × a = 48 × 10 = 480 N."
     },
     {
-      "subject": "Odia Language",
-      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 415: ‘ଶୁଦ୍ଧ’ର ବିପରୀତାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "subject": "Computer Science",
+      "q": "Computer Science revision 142: a data structure used in last-in, first-out order is?",
       "opts": [
-        "ସାଗର",
-        "ଶତ୍ରୁ",
-        "ବିଷ",
-        "ଅଶୁଦ୍ଧ"
+        "Source code into machine or target code",
+        "A pair of mathematically related keys",
+        "A fixed-length digest",
+        "Stack"
       ],
       "a": 3,
-      "exp": "ଠିକ୍ ଉତ୍ତର: ଅଶୁଦ୍ଧ।"
-    },
-    {
-      "subject": "Computer Science",
-      "q": "Computer Science revision 42: a data structure used in last-in, first-out order is?",
-      "opts": [
-        "Authenticity and integrity",
-        "A connectionless transport protocol",
-        "Stack",
-        "1010"
-      ],
-      "a": 2,
       "exp": "Correct answer: Stack."
     },
     {
-      "subject": "General Science",
-      "q": "General science revision 201: Which vitamin is produced in the skin on exposure to sunlight?",
-      "opts": [
-        "Moon",
-        "Vitamin D",
-        "Glucose",
-        "Nitrogen"
-      ],
-      "a": 1,
-      "exp": "Correct answer: Vitamin D."
-    },
-    {
-      "subject": "Reasoning",
-      "q": "If 2 is related to 49 by the same rule, what is the number related to 24?",
-      "opts": [
-        "51",
-        "81",
-        "71",
-        "101"
-      ],
-      "a": 2,
-      "exp": "Apply the same change (47): 24 + (47) = 71."
-    },
-    {
-      "subject": "General Science",
-      "q": "General science revision 57: Which part of the plant absorbs water from soil?",
-      "opts": [
-        "Chlorophyll",
-        "Oxygen",
-        "Iron",
-        "Root"
-      ],
-      "a": 3,
-      "exp": "Correct answer: Root."
-    },
-    {
       "subject": "General Knowledge",
-      "q": "General knowledge revision 283: Which body conducts elections to Parliament and state legislatures?",
+      "q": "General knowledge revision 851: In which year did India become independent?",
       "opts": [
-        "Election Commission of India",
-        "Odissi",
-        "Chilika Lake",
-        "Mars"
-      ],
-      "a": 0,
-      "exp": "Correct answer: Election Commission of India."
-    },
-    {
-      "subject": "Computer Literacy",
-      "q": "Computer literacy revision 371: Which device connects computers within a LAN?",
-      "opts": [
-        "Switch",
-        "Local Area Network",
-        "Binary",
-        "Uniform Resource Locator"
-      ],
-      "a": 0,
-      "exp": "Correct answer: Switch."
-    },
-    {
-      "subject": "Computer Science",
-      "q": "Computer Science revision 59: a log file is useful for?",
-      "opts": [
-        "A finite sequence of steps to solve a problem",
-        "Uniquely identify a record",
-        "16",
-        "Recording events for monitoring and investigation"
-      ],
-      "a": 3,
-      "exp": "Correct answer: Recording events for monitoring and investigation."
-    },
-    {
-      "subject": "Computer Literacy",
-      "q": "Computer literacy revision 118: What is ransomware?",
-      "opts": [
-        "Central Processing Unit",
-        "Database",
-        "Structured Query Language",
-        "Malware that encrypts or locks data for ransom"
-      ],
-      "a": 3,
-      "exp": "Correct answer: Malware that encrypts or locks data for ransom."
-    },
-    {
-      "subject": "General Knowledge",
-      "q": "General knowledge revision 987: Which day is observed as India's Republic Day?",
-      "opts": [
+        "Lucknow",
+        "Surat",
         "Bhopal",
-        "26 January",
-        "Rajya Sabha",
-        "Ranchi"
+        "1947"
       ],
-      "a": 1,
-      "exp": "Correct answer: 26 January."
+      "a": 3,
+      "exp": "Correct answer: 1947."
     },
     {
       "subject": "Quantitative Aptitude",
-      "q": "Find 10% of 4610.",
+      "q": "Calculate: 4819 × 64.",
       "opts": [
-        "451",
-        "361",
-        "481",
-        "461"
+        "308421",
+        "308396",
+        "308516",
+        "308416"
       ],
       "a": 3,
-      "exp": "10% of 4610 = 461."
+      "exp": "4819 × 64 = 308416."
+    },
+    {
+      "subject": "English Language",
+      "q": "English vocabulary practice 371: choose the synonym of 'keen'.",
+      "opts": [
+        "decrease",
+        "reject",
+        "eager",
+        "temporary"
+      ],
+      "a": 2,
+      "exp": "'eager' is the correct synonym in this question."
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Evaluate: 248275 ÷ 25.",
+      "opts": [
+        "9926",
+        "10031",
+        "9831",
+        "9931"
+      ],
+      "a": 3,
+      "exp": "248275 ÷ 25 = 9931."
+    },
+    {
+      "subject": "Computer Science",
+      "q": "Computer Science revision 88: a database primary key is used to?",
+      "opts": [
+        "A pair of mathematically related keys",
+        "Uniquely identify a record",
+        "A connectionless transport protocol",
+        "Authenticity and integrity"
+      ],
+      "a": 1,
+      "exp": "Correct answer: Uniquely identify a record."
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Calculate: 941 − 15.",
+      "opts": [
+        "946",
+        "926",
+        "916",
+        "976"
+      ],
+      "a": 1,
+      "exp": "941 − 15 = 926."
     },
     {
       "subject": "General Knowledge",
-      "q": "General knowledge revision 205: Which sector includes agriculture?",
+      "q": "General knowledge revision 794: Which layer protects Earth from much of the Sun's ultraviolet radiation?",
       "opts": [
-        "Jupiter",
-        "Patna",
-        "Primary sector",
+        "Bhopal",
+        "Ozone layer",
+        "Goa",
         "Chennai"
+      ],
+      "a": 1,
+      "exp": "Correct answer: Ozone layer."
+    },
+    {
+      "subject": "Reasoning",
+      "q": "Find the next number: 229, 233, 237, 241, 245, ?",
+      "opts": [
+        "254",
+        "249",
+        "239",
+        "219"
+      ],
+      "a": 1,
+      "exp": "The series increases by 4; next number is 249."
+    },
+    {
+      "subject": "Physics",
+      "q": "A vehicle travels at 52 m/s for 19 seconds. Find the distance.",
+      "opts": [
+        "938 m",
+        "993 m",
+        "988 m",
+        "963 m"
+      ],
+      "a": 2,
+      "exp": "Distance = speed × time = 52 × 19 = 988 m."
+    },
+    {
+      "subject": "Physics",
+      "q": "A vehicle travels at 56 m/s for 18 seconds. Find the distance.",
+      "opts": [
+        "1008 m",
+        "1033 m",
+        "998 m",
+        "958 m"
+      ],
+      "a": 0,
+      "exp": "Distance = speed × time = 56 × 18 = 1008 m."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 658: Which is the national aquatic animal of India?",
+      "opts": [
+        "Ganges river dolphin",
+        "Goa",
+        "Chennai",
+        "Hyderabad"
+      ],
+      "a": 0,
+      "exp": "Correct answer: Ganges river dolphin."
+    },
+    {
+      "subject": "English Language",
+      "q": "English vocabulary practice 386: choose the antonym of 'victory'.",
+      "opts": [
+        "stingy",
+        "modern",
+        "rare",
+        "defeat"
+      ],
+      "a": 3,
+      "exp": "'defeat' is the correct antonym in this question."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 956: Which planet is nearest to the Sun?",
+      "opts": [
+        "Patna",
+        "Hyderabad",
+        "Mercury",
+        "Odissi"
+      ],
+      "a": 2,
+      "exp": "Correct answer: Mercury."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 454: Which sector includes agriculture?",
+      "opts": [
+        "Hyderabad",
+        "Ganga",
+        "Primary sector",
+        "Jupiter"
       ],
       "a": 2,
       "exp": "Correct answer: Primary sector."
     },
     {
       "subject": "Computer Literacy",
-      "q": "Computer literacy revision 86: What does URL stand for?",
+      "q": "Computer literacy revision 202: Which component is known as the brain of a computer?",
       "opts": [
-        "Random Access Memory",
-        "Uniform Resource Locator",
-        "Firewall",
-        "Central Processing Unit"
-      ],
-      "a": 1,
-      "exp": "Correct answer: Uniform Resource Locator."
-    },
-    {
-      "subject": "Computer Science",
-      "q": "Computer Science revision 79: a log file is useful for?",
-      "opts": [
-        "Sorted",
-        "16",
-        "A pair of mathematically related keys",
-        "Recording events for monitoring and investigation"
+        "Operating System",
+        "Virtual Private Network",
+        "Local Area Network",
+        "CPU"
       ],
       "a": 3,
-      "exp": "Correct answer: Recording events for monitoring and investigation."
+      "exp": "Correct answer: CPU."
     },
     {
-      "subject": "General Science",
-      "q": "General science revision 242: Which disease is caused by deficiency of iodine?",
+      "subject": "English Language",
+      "q": "English vocabulary practice 416: choose the antonym of 'victory'.",
       "opts": [
-        "Oxygen",
-        "Chlorine",
-        "Goitre",
-        "Hydrogen"
+        "exclude",
+        "calm",
+        "defeat",
+        "reject"
       ],
       "a": 2,
-      "exp": "Correct answer: Goitre."
+      "exp": "'defeat' is the correct antonym in this question."
     },
     {
-      "subject": "Computer Literacy",
-      "q": "Computer literacy revision 280: What does CAPTCHA help distinguish?",
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 336: What is the capital of India?",
       "opts": [
-        "Random Access Memory",
-        "Human users from automated bots",
-        "Router",
-        "Database"
-      ],
-      "a": 1,
-      "exp": "Correct answer: Human users from automated bots."
-    },
-    {
-      "subject": "Quantitative Aptitude",
-      "q": "Additional arithmetic practice 11: calculate 3788 + 50.",
-      "opts": [
-        "3858",
-        "3838",
-        "3818",
-        "3828"
-      ],
-      "a": 1,
-      "exp": "3788 + 50 = 3838."
-    },
-    {
-      "subject": "Quantitative Aptitude",
-      "q": "Calculate: 8494 − 91.",
-      "opts": [
-        "8423",
-        "8393",
-        "8303",
-        "8403"
+        "Rajya Sabha",
+        "Chennai",
+        "Hyderabad",
+        "New Delhi"
       ],
       "a": 3,
-      "exp": "8494 − 91 = 8403."
+      "exp": "Correct answer: New Delhi."
     },
     {
       "subject": "Odia Language",
-      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 194: ‘ରାଜା’ର ସମାନାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 245: ‘ଜୟ’ର ବିପରୀତାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
       "opts": [
+        "ଆଲୋକ",
+        "ପରାଜୟ",
         "ମିତ୍ର",
-        "ଶତ୍ରୁ",
-        "ଅନ୍ଧକାର",
-        "ନୃପ"
+        "ବିଷ"
       ],
-      "a": 3,
-      "exp": "ଠିକ୍ ଉତ୍ତର: ନୃପ।"
+      "a": 1,
+      "exp": "ଠିକ୍ ଉତ୍ତର: ପରାଜୟ।"
+    },
+    {
+      "subject": "English Language",
+      "q": "English vocabulary practice 128: choose the antonym of 'hostile'.",
+      "opts": [
+        "exclude",
+        "decrease",
+        "opposite",
+        "calm"
+      ],
+      "a": 2,
+      "exp": "'opposite' is the correct antonym in this question."
     },
     {
       "subject": "Quantitative Aptitude",
-      "q": "Calculate: 9781 − 11.",
+      "q": "Additional arithmetic practice 57: calculate 1374 + 34.",
       "opts": [
-        "9780",
-        "9770",
-        "9820",
-        "9790"
+        "1398",
+        "1408",
+        "1428",
+        "1388"
       ],
       "a": 1,
-      "exp": "9781 − 11 = 9770."
+      "exp": "1374 + 34 = 1408."
+    },
+    {
+      "subject": "English Language",
+      "q": "English vocabulary practice 225: choose the synonym of 'precise'.",
+      "opts": [
+        "stingy",
+        "simple",
+        "accurate",
+        "modern"
+      ],
+      "a": 2,
+      "exp": "'accurate' is the correct synonym in this question."
     },
     {
       "subject": "General Science",
-      "q": "General science revision 447: Which gas is a major greenhouse gas?",
+      "q": "General science revision 135: Which gas is commonly used in fire extinguishers?",
       "opts": [
-        "Vitamin C",
-        "Nitrogen",
+        "Iron",
         "Carbon dioxide",
+        "Skin",
         "Moon"
       ],
-      "a": 2,
+      "a": 1,
       "exp": "Correct answer: Carbon dioxide."
     },
     {
       "subject": "General Knowledge",
-      "q": "General knowledge revision 267: Who wrote the Indian national anthem?",
+      "q": "General knowledge revision 321: Which organisation is responsible for global public health?",
       "opts": [
-        "Rabindranath Tagore",
+        "World Health Organization",
+        "New Delhi",
         "Konark",
-        "Hyderabad",
-        "Patna"
+        "Guwahati"
       ],
       "a": 0,
-      "exp": "Correct answer: Rabindranath Tagore."
+      "exp": "Correct answer: World Health Organization."
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Find 12% of 4361.",
+      "opts": [
+        "533",
+        "523",
+        "423",
+        "543"
+      ],
+      "a": 1,
+      "exp": "12% of 4361 = 523."
+    },
+    {
+      "subject": "Reasoning",
+      "q": "If 37 is related to 21 by the same rule, what is the number related to 25?",
+      "opts": [
+        "9",
+        "29",
+        "19",
+        "-1"
+      ],
+      "a": 0,
+      "exp": "Apply the same change (-16): 25 + (-16) = 9."
     },
     {
       "subject": "English Language",
-      "q": "English vocabulary practice 240: choose the antonym of 'increase'.",
+      "q": "English vocabulary practice 346: choose the antonym of 'rapid'.",
       "opts": [
         "calm",
-        "stingy",
-        "decrease",
-        "defeat"
+        "swift",
+        "modern",
+        "opposite"
+      ],
+      "a": 3,
+      "exp": "'opposite' is the correct antonym in this question."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 854: Who was the chairman of the Drafting Committee?",
+      "opts": [
+        "Dr B. R. Ambedkar",
+        "Ranchi",
+        "Ganga",
+        "Lok Sabha"
+      ],
+      "a": 0,
+      "exp": "Correct answer: Dr B. R. Ambedkar."
+    },
+    {
+      "subject": "Odia Language",
+      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 333: ‘ସାହସୀ’ର ବିପରୀତାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "opts": [
+        "ଅନ୍ଧକାର",
+        "ମିତ୍ର",
+        "ଭୀରୁ",
+        "ଗଗନ"
       ],
       "a": 2,
-      "exp": "'decrease' is the correct antonym in this question."
+      "exp": "ଠିକ୍ ଉତ୍ତର: ଭୀରୁ।"
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Calculate: 8762 × 84.",
+      "opts": [
+        "736018",
+        "735988",
+        "735908",
+        "736008"
+      ],
+      "a": 3,
+      "exp": "8762 × 84 = 736008."
     },
     {
       "subject": "Computer Science",
-      "q": "Computer Science revision 244: in programming, a loop is used to?",
+      "q": "Computer Science revision 112: tcp is a?",
       "opts": [
-        "Sorted",
-        "A fixed-length digest",
-        "A finite sequence of steps to solve a problem",
-        "Repeat a set of instructions"
-      ],
-      "a": 3,
-      "exp": "Correct answer: Repeat a set of instructions."
-    },
-    {
-      "subject": "Computer Literacy",
-      "q": "Computer literacy revision 456: Which file extension is commonly used for a PDF document?",
-      "opts": [
-        "Virtual Private Network",
-        "Central Processing Unit",
-        ".pdf",
-        "Operating System"
-      ],
-      "a": 2,
-      "exp": "Correct answer: .pdf."
-    },
-    {
-      "subject": "Reasoning",
-      "q": "Find the next number: 218, 239, 260, 281, ?",
-      "opts": [
-        "312",
-        "302",
-        "322",
-        "272"
-      ],
-      "a": 1,
-      "exp": "The series increases by 21; next number is 302."
-    },
-    {
-      "subject": "General Science",
-      "q": "General science revision 67: Which gas is necessary for respiration?",
-      "opts": [
-        "Pancreas",
-        "Vitamin C",
-        "Oxygen",
-        "Sodium"
-      ],
-      "a": 2,
-      "exp": "Correct answer: Oxygen."
-    },
-    {
-      "subject": "Reasoning",
-      "q": "Find the next number: 402, 407, 412, 417, 422, ?",
-      "opts": [
-        "427",
-        "432",
-        "457",
-        "447"
+        "Connection-oriented transport protocol",
+        "Stack",
+        "Source code into machine or target code",
+        "A pair of mathematically related keys"
       ],
       "a": 0,
-      "exp": "The series increases by 5; next number is 427."
+      "exp": "Correct answer: Connection-oriented transport protocol."
+    },
+    {
+      "subject": "Odia Language",
+      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 435: ‘ପବନ’ର ବିପରୀତାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "opts": [
+        "ଆଲୋକ",
+        "ଗଗନ",
+        "ଶତ୍ରୁ",
+        "ମିତ୍ର"
+      ],
+      "a": 2,
+      "exp": "ଠିକ୍ ଉତ୍ତର: ଶତ୍ରୁ।"
+    },
+    {
+      "subject": "Odia Language",
+      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 428: ‘ପୃଥିବୀ’ର ସମାନାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "opts": [
+        "ଧରିତ୍ରୀ",
+        "ଶତ୍ରୁ",
+        "ଅନ୍ଧକାର",
+        "ଗଗନ"
+      ],
+      "a": 0,
+      "exp": "ଠିକ୍ ଉତ୍ତର: ଧରିତ୍ରୀ।"
     },
     {
       "subject": "General Knowledge",
-      "q": "General knowledge revision 826: Which is the national bird of India?",
+      "q": "General knowledge revision 356: Who was the chairman of the Drafting Committee?",
       "opts": [
-        "Odissi",
-        "Indian peacock",
-        "Mars",
-        "Ganga"
-      ],
-      "a": 1,
-      "exp": "Correct answer: Indian peacock."
-    },
-    {
-      "subject": "General Science",
-      "q": "General science revision 221: What is the pH of a neutral solution at 25°C?",
-      "opts": [
-        "Oxygen",
-        "7",
-        "Moon",
-        "Pancreas"
-      ],
-      "a": 1,
-      "exp": "Correct answer: 7."
-    },
-    {
-      "subject": "General Science",
-      "q": "General science revision 365: Which is the largest organ of the human body?",
-      "opts": [
-        "Nitrogen",
-        "Skin",
-        "Moon",
-        "Oxygen"
-      ],
-      "a": 1,
-      "exp": "Correct answer: Skin."
-    },
-    {
-      "subject": "Computer Literacy",
-      "q": "Computer literacy revision 160: What does CAPTCHA help distinguish?",
-      "opts": [
-        "Human users from automated bots",
-        "Virtual Private Network",
-        "Router",
-        "Local Area Network"
-      ],
-      "a": 0,
-      "exp": "Correct answer: Human users from automated bots."
-    },
-    {
-      "subject": "Computer Literacy",
-      "q": "Computer literacy revision 297: What is phishing?",
-      "opts": [
-        "Router",
-        "Database",
-        "A fraudulent attempt to obtain sensitive information",
-        "Operating System"
-      ],
-      "a": 2,
-      "exp": "Correct answer: A fraudulent attempt to obtain sensitive information."
-    },
-    {
-      "subject": "Physics",
-      "q": "A body of mass 40 kg accelerates at 5 m/s². Find the force.",
-      "opts": [
-        "195 N",
-        "225 N",
-        "205 N",
-        "200 N"
-      ],
-      "a": 3,
-      "exp": "F = m × a = 40 × 5 = 200 N."
-    },
-    {
-      "subject": "General Knowledge",
-      "q": "General knowledge revision 895: Which is the largest freshwater lake in India?",
-      "opts": [
-        "Lok Sabha",
         "Konark",
-        "Wular Lake",
-        "Ganga"
-      ],
-      "a": 2,
-      "exp": "Correct answer: Wular Lake."
-    },
-    {
-      "subject": "English Language",
-      "q": "English vocabulary practice 144: choose the antonym of 'optimistic'.",
-      "opts": [
-        "swift",
-        "pessimistic",
-        "stingy",
-        "happy"
+        "Dr B. R. Ambedkar",
+        "Bhopal",
+        "Rajasthan"
       ],
       "a": 1,
-      "exp": "'pessimistic' is the correct antonym in this question."
-    },
-    {
-      "subject": "Computer Literacy",
-      "q": "Computer literacy revision 329: What does IP stand for in networking?",
-      "opts": [
-        "Binary",
-        "Universal Serial Bus",
-        "Structured Query Language",
-        "Internet Protocol"
-      ],
-      "a": 3,
-      "exp": "Correct answer: Internet Protocol."
+      "exp": "Correct answer: Dr B. R. Ambedkar."
     },
     {
       "subject": "General Knowledge",
-      "q": "General knowledge revision 259: Where is the Sun Temple located?",
+      "q": "General knowledge revision 875: What is the star at the centre of our Solar System?",
+      "opts": [
+        "Sun",
+        "Rajasthan",
+        "Ranchi",
+        "Lok Sabha"
+      ],
+      "a": 0,
+      "exp": "Correct answer: Sun."
+    },
+    {
+      "subject": "Reasoning",
+      "q": "If 9 is related to 15 by the same rule, what is the number related to 43?",
+      "opts": [
+        "29",
+        "49",
+        "44",
+        "54"
+      ],
+      "a": 1,
+      "exp": "Apply the same change (6): 43 + (6) = 49."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 151: Which national park in Odisha is known for saltwater crocodiles?",
+      "opts": [
+        "Patna",
+        "Surat",
+        "Bhitarkanika National Park",
+        "Guwahati"
+      ],
+      "a": 2,
+      "exp": "Correct answer: Bhitarkanika National Park."
+    },
+    {
+      "subject": "Reasoning",
+      "q": "If 27 is related to 50 by the same rule, what is the number related to 22?",
+      "opts": [
+        "25",
+        "65",
+        "50",
+        "45"
+      ],
+      "a": 3,
+      "exp": "Apply the same change (23): 22 + (23) = 45."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "Which house of Parliament is called the Council of States?",
       "opts": [
         "Chennai",
         "Ranchi",
-        "Mumbai",
-        "Konark"
+        "Kolkata",
+        "Rajya Sabha"
       ],
       "a": 3,
-      "exp": "Correct answer: Konark."
+      "exp": "Correct answer: Rajya Sabha."
+    },
+    {
+      "subject": "Odia Language",
+      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 73: ‘ଘର’ର ବିପରୀତାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "opts": [
+        "ମିତ୍ର",
+        "ଦୁଃଖ",
+        "ଆଲୋକ",
+        "ଶତ୍ରୁ"
+      ],
+      "a": 3,
+      "exp": "ଠିକ୍ ଉତ୍ତର: ଶତ୍ରୁ।"
     },
     {
       "subject": "General Science",
-      "q": "General science revision 131: Which material is a good conductor of electricity?",
+      "q": "General science revision 313: Which component of blood helps in clotting?",
       "opts": [
-        "Calcium",
-        "Copper",
-        "Skin",
-        "Chlorophyll"
+        "Platelets",
+        "Mercury",
+        "Nitrogen",
+        "Glucose"
       ],
-      "a": 1,
-      "exp": "Correct answer: Copper."
+      "a": 0,
+      "exp": "Correct answer: Platelets."
     },
     {
-      "subject": "Computer Literacy",
-      "q": "Computer literacy revision 316: What does VPN stand for?",
+      "subject": "Computer Science",
+      "q": "Computer Science revision 283: a data structure used in first-in, first-out order is?",
       "opts": [
-        "Local Area Network",
-        "Uniform Resource Locator",
-        "Router",
-        "Virtual Private Network"
-      ],
-      "a": 3,
-      "exp": "Correct answer: Virtual Private Network."
-    },
-    {
-      "subject": "General Science",
-      "q": "Which part of the eye controls the amount of light entering?",
-      "opts": [
-        "Iron",
-        "Iris",
-        "Moon",
-        "Chlorine"
+        "Uniquely identify a record",
+        "Queue",
+        "A pair of mathematically related keys",
+        "A finite sequence of steps to solve a problem"
       ],
       "a": 1,
-      "exp": "Correct answer: Iris."
+      "exp": "Correct answer: Queue."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "Who led the Ulgulan movement?",
+      "opts": [
+        "Bhopal",
+        "Odissi",
+        "Birsa Munda",
+        "Rajasthan"
+      ],
+      "a": 2,
+      "exp": "Correct answer: Birsa Munda."
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Additional arithmetic practice 26: calculate 9313 + 62.",
+      "opts": [
+        "9355",
+        "9375",
+        "9405",
+        "9345"
+      ],
+      "a": 1,
+      "exp": "9313 + 62 = 9375."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 406: Which day is observed as India's Republic Day?",
+      "opts": [
+        "Chilika Lake",
+        "26 January",
+        "Konark",
+        "Bhubaneswar"
+      ],
+      "a": 1,
+      "exp": "Correct answer: 26 January."
     },
     {
       "subject": "Reasoning",
-      "q": "If 8 is related to 22 by the same rule, what is the number related to 13?",
+      "q": "Find the next number: 56, 58, 60, 62, 64, 66, 68, 70, ?",
       "opts": [
-        "37",
-        "-3",
-        "27",
-        "17"
+        "72",
+        "102",
+        "42",
+        "67"
+      ],
+      "a": 0,
+      "exp": "The series increases by 2; next number is 72."
+    },
+    {
+      "subject": "Odia Language",
+      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 72: ‘ବନ’ର ସମାନାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "opts": [
+        "ସୁଖ",
+        "ଅରଣ୍ୟ",
+        "ଗଗନ",
+        "ସାଗର"
+      ],
+      "a": 1,
+      "exp": "ଠିକ୍ ଉତ୍ତର: ଅରଣ୍ୟ।"
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Calculate: 8730 + 11.",
+      "opts": [
+        "8731",
+        "8641",
+        "8736",
+        "8741"
+      ],
+      "a": 3,
+      "exp": "8730 + 11 = 8741."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 344: What is the state animal of Odisha?",
+      "opts": [
+        "Sambar deer",
+        "Guwahati",
+        "Hyderabad",
+        "Surat"
+      ],
+      "a": 0,
+      "exp": "Correct answer: Sambar deer."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 762: Which lake in Odisha is famous for migratory birds?",
+      "opts": [
+        "Odissi",
+        "Goa",
+        "Chilika Lake",
+        "Rajya Sabha"
       ],
       "a": 2,
-      "exp": "Apply the same change (14): 13 + (14) = 27."
+      "exp": "Correct answer: Chilika Lake."
+    },
+    {
+      "subject": "Reasoning",
+      "q": "Find the next number: 438, 458, 478, 498, 518, 538, 558, 578, ?",
+      "opts": [
+        "598",
+        "578",
+        "608",
+        "588"
+      ],
+      "a": 0,
+      "exp": "The series increases by 20; next number is 598."
+    },
+    {
+      "subject": "Odia Language",
+      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 57: ‘ଜୀବନ’ର ବିପରୀତାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "opts": [
+        "ଗଗନ",
+        "ଦୁଃଖ",
+        "ପାଣି",
+        "ମୃତ୍ୟୁ"
+      ],
+      "a": 3,
+      "exp": "ଠିକ୍ ଉତ୍ତର: ମୃତ୍ୟୁ।"
+    },
+    {
+      "subject": "Reasoning",
+      "q": "Find the next number: 415, 438, 461, 484, 507, 530, 553, ?",
+      "opts": [
+        "571",
+        "566",
+        "576",
+        "596"
+      ],
+      "a": 2,
+      "exp": "The series increases by 23; next number is 576."
+    },
+    {
+      "subject": "Computer Science",
+      "q": "Computer Science revision 155: digital signatures help verify?",
+      "opts": [
+        "16",
+        "Source code into machine or target code",
+        "Authenticity and integrity",
+        "A pair of mathematically related keys"
+      ],
+      "a": 2,
+      "exp": "Correct answer: Authenticity and integrity."
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Calculate: 7947 − 44.",
+      "opts": [
+        "7898",
+        "7903",
+        "7923",
+        "7953"
+      ],
+      "a": 1,
+      "exp": "7947 − 44 = 7903."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 468: Which soil is suitable for cotton cultivation?",
+      "opts": [
+        "Mars",
+        "Ranchi",
+        "Surat",
+        "Black soil"
+      ],
+      "a": 3,
+      "exp": "Correct answer: Black soil."
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Find 10% of 7342.",
+      "opts": [
+        "634",
+        "734",
+        "744",
+        "684"
+      ],
+      "a": 1,
+      "exp": "10% of 7342 = 734."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 687: When did the Constitution of India come into force?",
+      "opts": [
+        "Rajasthan",
+        "26 January 1950",
+        "Pune",
+        "Konark"
+      ],
+      "a": 1,
+      "exp": "Correct answer: 26 January 1950."
+    },
+    {
+      "subject": "Computer Literacy",
+      "q": "Computer literacy revision 111: What does HTML stand for?",
+      "opts": [
+        "Structured Query Language",
+        "Hypertext Transfer Protocol",
+        "Hypertext Markup Language",
+        "Encryption"
+      ],
+      "a": 2,
+      "exp": "Correct answer: Hypertext Markup Language."
+    },
+    {
+      "subject": "Computer Literacy",
+      "q": "Computer literacy revision 119: What is social engineering?",
+      "opts": [
+        "Hypertext Transfer Protocol",
+        "Operating System",
+        "Local Area Network",
+        "Manipulating people to disclose information or perform actions"
+      ],
+      "a": 3,
+      "exp": "Correct answer: Manipulating people to disclose information or perform actions."
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Calculate: 3606 × 30.",
+      "opts": [
+        "108160",
+        "108190",
+        "108180",
+        "108280"
+      ],
+      "a": 2,
+      "exp": "3606 × 30 = 108180."
+    },
+    {
+      "subject": "Physics",
+      "q": "Additional physics practice 22: a 32 kg body accelerates at 4 m/s². Find its force.",
+      "opts": [
+        "108 N",
+        "158 N",
+        "128 N",
+        "148 N"
+      ],
+      "a": 2,
+      "exp": "F = ma = 32 × 4 = 128 N."
+    },
+    {
+      "subject": "General Science",
+      "q": "General science revision 255: Which organ pumps blood through the human body?",
+      "opts": [
+        "Hydrogen",
+        "Heart",
+        "Potassium",
+        "Calcium"
+      ],
+      "a": 1,
+      "exp": "Correct answer: Heart."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 108: Which house of Parliament is called the Council of States?",
+      "opts": [
+        "Mumbai",
+        "Lucknow",
+        "Rajya Sabha",
+        "Odissi"
+      ],
+      "a": 2,
+      "exp": "Correct answer: Rajya Sabha."
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Evaluate: 201025 ÷ 55.",
+      "opts": [
+        "3705",
+        "3555",
+        "3605",
+        "3655"
+      ],
+      "a": 3,
+      "exp": "201025 ÷ 55 = 3655."
+    },
+    {
+      "subject": "Reasoning",
+      "q": "Find the next number: 159, 181, 203, 225, 247, ?",
+      "opts": [
+        "264",
+        "269",
+        "239",
+        "259"
+      ],
+      "a": 1,
+      "exp": "The series increases by 22; next number is 269."
+    },
+    {
+      "subject": "Computer Literacy",
+      "q": "Computer literacy revision 442: Which component is known as the brain of a computer?",
+      "opts": [
+        "CPU",
+        "Virtual Private Network",
+        "Structured Query Language",
+        "Uniform Resource Locator"
+      ],
+      "a": 0,
+      "exp": "Correct answer: CPU."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 258: Which Indian state has the longest coastline?",
+      "opts": [
+        "Rajya Sabha",
+        "Mars",
+        "Patna",
+        "Gujarat"
+      ],
+      "a": 3,
+      "exp": "Correct answer: Gujarat."
+    },
+    {
+      "subject": "Odia Language",
+      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 112: ‘ବନ’ର ସମାନାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "opts": [
+        "ବିଷ",
+        "ସାଗର",
+        "ଅରଣ୍ୟ",
+        "ସୁଖ"
+      ],
+      "a": 2,
+      "exp": "ଠିକ୍ ଉତ୍ତର: ଅରଣ୍ୟ।"
+    },
+    {
+      "subject": "Odia Language",
+      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 156: ‘ସମୁଦ୍ର’ର ସମାନାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "opts": [
+        "ବିଷ",
+        "ଅନ୍ଧକାର",
+        "ସାଗର",
+        "ଆଲୋକ"
+      ],
+      "a": 2,
+      "exp": "ଠିକ୍ ଉତ୍ତର: ସାଗର।"
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Calculate: 4005 − 76.",
+      "opts": [
+        "3939",
+        "3929",
+        "4029",
+        "3924"
+      ],
+      "a": 1,
+      "exp": "4005 − 76 = 3929."
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Evaluate: 368928 ÷ 48.",
+      "opts": [
+        "7691",
+        "7636",
+        "7676",
+        "7686"
+      ],
+      "a": 3,
+      "exp": "368928 ÷ 48 = 7686."
+    },
+    {
+      "subject": "Computer Science",
+      "q": "UDP is generally described as?",
+      "opts": [
+        "A pair of mathematically related keys",
+        "Uniquely identify a record",
+        "A connectionless transport protocol",
+        "Source code into machine or target code"
+      ],
+      "a": 2,
+      "exp": "Correct answer: A connectionless transport protocol."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 160: Which is the national aquatic animal of India?",
+      "opts": [
+        "Bhubaneswar",
+        "Odissi",
+        "Ganges river dolphin",
+        "Konark"
+      ],
+      "a": 2,
+      "exp": "Correct answer: Ganges river dolphin."
+    },
+    {
+      "subject": "Computer Science",
+      "q": "Computer Science revision 176: public-key cryptography uses?",
+      "opts": [
+        "A connectionless transport protocol",
+        "Stack",
+        "Sorted",
+        "A pair of mathematically related keys"
+      ],
+      "a": 3,
+      "exp": "Correct answer: A pair of mathematically related keys."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 196: Which article guarantees equality before law?",
+      "opts": [
+        "Article 14",
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Konark"
+      ],
+      "a": 0,
+      "exp": "Correct answer: Article 14."
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Calculate: 5885 + 89.",
+      "opts": [
+        "6074",
+        "5974",
+        "5984",
+        "5954"
+      ],
+      "a": 1,
+      "exp": "5885 + 89 = 5974."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 202: What is the currency of India?",
+      "opts": [
+        "Ganga",
+        "Hyderabad",
+        "Jupiter",
+        "Indian rupee"
+      ],
+      "a": 3,
+      "exp": "Correct answer: Indian rupee."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 952: Which sector includes agriculture?",
+      "opts": [
+        "Lucknow",
+        "Odissi",
+        "Mars",
+        "Primary sector"
+      ],
+      "a": 3,
+      "exp": "Correct answer: Primary sector."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 103: Who was the first Prime Minister of India?",
+      "opts": [
+        "Kolkata",
+        "New Delhi",
+        "Patna",
+        "Jawaharlal Nehru"
+      ],
+      "a": 3,
+      "exp": "Correct answer: Jawaharlal Nehru."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "Which gas is most abundant in Earth's atmosphere?",
+      "opts": [
+        "Ganga",
+        "Mars",
+        "Nitrogen",
+        "Mumbai"
+      ],
+      "a": 2,
+      "exp": "Correct answer: Nitrogen."
+    },
+    {
+      "subject": "Odia Language",
+      "q": "ଓଡ଼ିଆ ଶବ୍ଦ ଅଭ୍ୟାସ 500: ‘ପ୍ରଶଂସା’ର ସମାନାର୍ଥକ ଶବ୍ଦ କେଉଁଟି?",
+      "opts": [
+        "ଆଲୋକ",
+        "ପାଣି",
+        "ଗଗନ",
+        "ମିତ୍ର"
+      ],
+      "a": 1,
+      "exp": "ଠିକ୍ ଉତ୍ତର: ପାଣି।"
+    },
+    {
+      "subject": "Reasoning",
+      "q": "If 10 is related to 29 by the same rule, what is the number related to 37?",
+      "opts": [
+        "51",
+        "76",
+        "56",
+        "86"
+      ],
+      "a": 2,
+      "exp": "Apply the same change (19): 37 + (19) = 56."
+    },
+    {
+      "subject": "Reasoning",
+      "q": "If 46 is related to 12 by the same rule, what is the number related to 50?",
+      "opts": [
+        "16",
+        "36",
+        "26",
+        "-4"
+      ],
+      "a": 0,
+      "exp": "Apply the same change (-34): 50 + (-34) = 16."
+    },
+    {
+      "subject": "Reasoning",
+      "q": "Find the next number: 452, 461, 470, 479, 488, 497, 506, ?",
+      "opts": [
+        "515",
+        "545",
+        "535",
+        "495"
+      ],
+      "a": 0,
+      "exp": "The series increases by 9; next number is 515."
+    },
+    {
+      "subject": "Quantitative Aptitude",
+      "q": "Calculate: 9658 − 19.",
+      "opts": [
+        "9689",
+        "9634",
+        "9539",
+        "9639"
+      ],
+      "a": 3,
+      "exp": "9658 − 19 = 9639."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 310: Who was the first woman President of India?",
+      "opts": [
+        "Surat",
+        "Pratibha Patil",
+        "Bhubaneswar",
+        "Rajya Sabha"
+      ],
+      "a": 1,
+      "exp": "Correct answer: Pratibha Patil."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 934: In which year did India become independent?",
+      "opts": [
+        "Konark",
+        "1947",
+        "Hyderabad",
+        "Ganga"
+      ],
+      "a": 1,
+      "exp": "Correct answer: 1947."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 240: Which day is observed as India's Republic Day?",
+      "opts": [
+        "Ganga",
+        "Mars",
+        "26 January",
+        "Bhubaneswar"
+      ],
+      "a": 2,
+      "exp": "Correct answer: 26 January."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "General knowledge revision 424: Which Indian state has the longest coastline?",
+      "opts": [
+        "Bhopal",
+        "Surat",
+        "Rajasthan",
+        "Gujarat"
+      ],
+      "a": 3,
+      "exp": "Correct answer: Gujarat."
+    },
+    {
+      "subject": "General Knowledge",
+      "q": "What is the state animal of Odisha?",
+      "opts": [
+        "Hyderabad",
+        "Chilika Lake",
+        "Sambar deer",
+        "Ranchi"
+      ],
+      "a": 2,
+      "exp": "Correct answer: Sambar deer."
     }
   ]
 }
